@@ -13,13 +13,14 @@ var GameResources = (function() {
 	}
 
 	var GameResources = [
-		{ name: "ld23space", type: "json", src: "data/ld23space-aftertouch.json" },
+		{ name: "ld23-space", type: "json", src: "data/ld23space-aftertouch.json" },
 		{ name: "longtest", type: "json", src: "data/longtest.json" },
 		{ name: "16x16_font", type:"image", src: "data/16x16_font.png" },
 		_Audio("ld23-space"),
 		_Audio("longtest"),
 		_Image("intro_glasses1"),
 		_Image("blood_impact_64"),
+		_Image("area02_parallax1"),
 	];
 
 	return GameResources;
