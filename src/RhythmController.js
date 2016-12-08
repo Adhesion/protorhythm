@@ -15,16 +15,22 @@ var RhythmController = me.Renderable.extend({
         this.currentTime = 0.0;
         me.audio.play("longtest");
 
-        this.maxHitWindow = 116.666;
+        this.maxHitWindow = 133.333;
         // This should be sorted smallest to largest!
         this.hitWindows = [
             { min: 16.666, max: 16.666, value: "RAD!" },
-            { min: this.maxHitWindow, max: this.maxHitWindow, value: "meh" }
+            { min: 50.0, max: 50.0, value: "SWEET" },
+            { min: this.maxHitWindow, max: this.maxHitWindow, value: "MEH" }
         ];
 
         this.keysub = me.event.subscribe(me.event.KEYDOWN, this.handleNoteInput.bind(this));
 
-        me.game.world.addChild(new me.ColorLayer("background", "#000000"), 0);
+        me.game.world.addChild(new me.ColorLayer("background", "#161616"), -1);
+
+        this.timingFont = new me.BitmapFont('16x16_font', 16);
+        this.lastTimingText = "";
+        this.maxTimingDisplayTime = 1000.0;
+        this.timeSinceTimingText = this.maxTimingDisplayTime;
     },
 
     parseNoteData: function(noteJSON) {
@@ -75,6 +81,7 @@ var RhythmController = me.Renderable.extend({
                     if (inWindow) {
                         console.log("hit! " + inWindow);
                         this.removeNoteAt(i);
+                        this.displaytimingText(inWindow);
                         return;
                     }
                 }
@@ -100,6 +107,11 @@ var RhythmController = me.Renderable.extend({
         this.onScreenNotes.splice(index, 1);
     },
 
+    displayTimingText: function(text) {
+        this.lastTimingText = text;
+        this.timeSinceTimingText = 0.0;
+    },
+
     updateScreenNotes: function() {
         for (var i = this.onScreenNotes.length - 1; i >= 0; i--) {
             var note = this.onScreenNotes[i];
@@ -115,6 +127,7 @@ var RhythmController = me.Renderable.extend({
             // Remove notes that are past our hit window
             if (note["timeMS"] < this.currentTime - this.maxHitWindow) {
                 this.removeNoteAt(i);
+                this.displayTimingText("MISS!");
                 console.log("miss!");
                 //console.log("screen notes: " + this.onScreenNotes.length);
             }
@@ -133,5 +146,19 @@ var RhythmController = me.Renderable.extend({
         this.updateScreenNotes();
 
         this.currentTime += dt;
+        this.timeSinceTimingText += dt;
+        this.timingFont.resize((this.maxTimingDisplayTime - this.timeSinceTimingText) / this.maxTimingDisplayTime * 6.0);
+    },
+
+    draw: function(ctx) {
+        this._super(me.Renderable, "draw", [ctx]);
+
+        if (this.timeSinceTimingText < this.maxTimingDisplayTime) {
+            var metrics = this.timingFont.measureText(ctx, this.lastTimingText);
+            var x = 400 - metrics.width / 2;
+            var y = 400 - metrics.height/2;
+
+            this.timingFont.draw(ctx, this.lastTimingText, x, y);
+        }
     }
 });
