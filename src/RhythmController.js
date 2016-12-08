@@ -9,7 +9,7 @@ var RhythmController = me.Renderable.extend({
         this.onScreenTimeMS = 1250.0;
 
         this.noteStartY = 0;
-        this.noteEndY = 640;
+        this.noteEndY = 600;
 
         this.parseNoteData(me.loader.getJSON("longtest"));
         this.currentTime = 0.0;
@@ -80,8 +80,19 @@ var RhythmController = me.Renderable.extend({
 
                     if (inWindow) {
                         console.log("hit! " + inWindow);
+
+                        var splatX = note["image"].pos.x;
+                        var splatY = note["image"].pos.y;
+                        var splat = new me.AnimationSheet(splatX, splatY, {image: "blood_impact_64", framewidth: 64, frameheight: 64});
+                        splat.alwaysUpdate = true;
+                        splat.setCurrentAnimation("default", function() {
+                            me.game.world.removeChild(splat);
+                        });
+                        me.game.world.addChild(splat, 1);
+
                         this.removeNoteAt(i);
-                        this.displaytimingText(inWindow);
+                        this.displayTimingText(inWindow);
+
                         return;
                     }
                 }
@@ -99,7 +110,7 @@ var RhythmController = me.Renderable.extend({
         noteData["key"] = key;
 
         this.onScreenNotes.push(noteData);
-        me.game.world.addChild(image, 1);
+        me.game.world.addChild(image, 2);
     },
 
     removeNoteAt: function(index) {
@@ -160,5 +171,7 @@ var RhythmController = me.Renderable.extend({
 
             this.timingFont.draw(ctx, this.lastTimingText, x, y);
         }
+
+        ctx.strokeRect(0, this.noteEndY, 1000, 10);
     }
 });

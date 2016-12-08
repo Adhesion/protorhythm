@@ -19,6 +19,7 @@ var GameResources = (function() {
 		_Audio("ld23-space"),
 		_Audio("longtest"),
 		_Image("intro_glasses1"),
+		_Image("blood_impact_64"),
 	];
 
 	return GameResources;
