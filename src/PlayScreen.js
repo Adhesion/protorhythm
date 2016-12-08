@@ -28,10 +28,10 @@ var PlayScreen = me.ScreenObject.extend({
 		});
 
 		if(me.input.GAMEPAD) {
-			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_1, keys.note0[0]);
-			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_2, keys.note1[0]);
-			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_3, keys.note2[0]);
-			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_4, keys.note3[0]);
+			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_4, keys.note0[0]);
+			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_3, keys.note1[0]);
+			me.input.bindGamepad(0, me.input.GAMEPAD.BUTTONS.FACE_2, keys.note2[0]);
+			me.input.bindGamepad(0, {type:"axes", code: me.input.GAMEPAD.AXES.LX, threshold: -0.5}, keys.note3[0]);
 		}
 
 		this.rhythmController = new RhythmController(0, 0, this.game.screenWidth, this.game.screenHeight);
