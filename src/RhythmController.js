@@ -60,7 +60,6 @@ var RhythmController = me.Renderable.extend({
 
         for (var i = 0; i < this.hitWindows.length; i++) {
             var window = this.hitWindows[i];
-            //console.log("checking " + time + " with " + window["min"] + ", " + window["max"] + " at " + this.currentTime);
             if (time >= this.currentTime - window["min"] && time <= this.currentTime + window["max"]) {
                 return window["value"];
             }
@@ -70,7 +69,7 @@ var RhythmController = me.Renderable.extend({
     },
 
     handleNoteInput: function(action, keycode, edge) {
-        console.log("note input: " + action + ", " + keycode + ", " + edge);
+        //console.log("note input: " + action + ", " + keycode + ", " + edge);
         if (action) {
             for (var i = 0; i < this.onScreenNotes.length; i++) {
                 var note = this.onScreenNotes[i];
@@ -80,8 +79,6 @@ var RhythmController = me.Renderable.extend({
                     var inWindow = this.isNoteInWindow(note);
 
                     if (inWindow) {
-                        console.log("hit! " + inWindow);
-
                         this.addSplat(note);
 
                         this.removeNoteAt(i);
@@ -138,14 +135,11 @@ var RhythmController = me.Renderable.extend({
             var proportionalDistance = (this.currentTime + this.onScreenTimeMS - note["timeMS"]) / this.onScreenTimeMS;
             var y = this.noteStartY + (this.noteEndY - this.noteStartY) * proportionalDistance;
             note["image"].pos.y = y;
-            //console.log("updating note " + note["key"] + " to " + y + " with prop " + proportionalDistance);
 
             // Remove notes that are past our hit window
             if (note["timeMS"] < this.currentTime - this.maxHitWindow) {
                 this.removeNoteAt(i);
                 this.displayTimingText("MISS!");
-                console.log("miss!");
-                //console.log("screen notes: " + this.onScreenNotes.length);
             }
         }
     },
@@ -159,7 +153,6 @@ var RhythmController = me.Renderable.extend({
         this._super(me.Entity, "update", [dt]);
 
         while(this.noteData.length > 0 && this.noteData[0]["timeMS"] <= this.currentTime + this.onScreenTimeMS) {
-            //console.log("passed note: " + this.noteData[0]["note"] + " at " + this.noteData[0]["timeMS"]);
             this.addNoteToScreen(this.noteData[0]);
             this.noteData.shift();
         }
@@ -176,7 +169,7 @@ var RhythmController = me.Renderable.extend({
 
         if (this.timeSinceTimingText < this.maxTimingDisplayTime) {
             var metrics = this.timingFont.measureText(ctx, this.lastTimingText);
-            var x = 400 - metrics.width / 2;
+            var x = 650 - metrics.width / 2;
             var y = 400 - metrics.height/2;
 
             this.timingFont.draw(ctx, this.lastTimingText, x, y);
