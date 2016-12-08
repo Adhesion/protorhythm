@@ -1,0 +1,5992 @@
+{
+    "ld23space-nuendo": [
+        {
+            "type": "trackEnd",
+            "time": 0,
+            "timeMS": 0
+        }
+    ],
+    "4 6-Massive": [
+        {
+            "type": "noteOn",
+            "time": 0,
+            "note": 53,
+            "velocity": 83,
+            "timeMS": 0
+        },
+        {
+            "type": "noteOff",
+            "time": 238,
+            "note": 53,
+            "velocity": 64,
+            "timeMS": 141.666525
+        },
+        {
+            "type": "noteOn",
+            "time": 240,
+            "note": 55,
+            "velocity": 83,
+            "timeMS": 142.857
+        },
+        {
+            "type": "noteOff",
+            "time": 478,
+            "note": 55,
+            "velocity": 64,
+            "timeMS": 284.523525
+        },
+        {
+            "type": "noteOn",
+            "time": 480,
+            "note": 58,
+            "velocity": 83,
+            "timeMS": 285.714
+        },
+        {
+            "type": "noteOff",
+            "time": 718,
+            "note": 58,
+            "velocity": 64,
+            "timeMS": 427.380525
+        },
+        {
+            "type": "noteOn",
+            "time": 720,
+            "note": 55,
+            "velocity": 83,
+            "timeMS": 428.57099999999997
+        },
+        {
+            "type": "noteOff",
+            "time": 958,
+            "note": 55,
+            "velocity": 64,
+            "timeMS": 570.237525
+        },
+        {
+            "type": "noteOn",
+            "time": 960,
+            "note": 58,
+            "velocity": 83,
+            "timeMS": 571.428
+        },
+        {
+            "type": "noteOff",
+            "time": 1198,
+            "note": 58,
+            "velocity": 64,
+            "timeMS": 713.094525
+        },
+        {
+            "type": "noteOn",
+            "time": 1200,
+            "note": 60,
+            "velocity": 83,
+            "timeMS": 714.285
+        },
+        {
+            "type": "noteOff",
+            "time": 1438,
+            "note": 60,
+            "velocity": 64,
+            "timeMS": 855.951525
+        },
+        {
+            "type": "noteOn",
+            "time": 1440,
+            "note": 63,
+            "velocity": 83,
+            "timeMS": 857.1419999999999
+        },
+        {
+            "type": "noteOff",
+            "time": 1678,
+            "note": 63,
+            "velocity": 64,
+            "timeMS": 998.8085249999999
+        },
+        {
+            "type": "noteOn",
+            "time": 1680,
+            "note": 65,
+            "velocity": 83,
+            "timeMS": 999.9989999999999
+        },
+        {
+            "type": "noteOff",
+            "time": 1918,
+            "note": 65,
+            "velocity": 64,
+            "timeMS": 1141.665525
+        },
+        {
+            "type": "noteOn",
+            "time": 1920,
+            "note": 67,
+            "velocity": 83,
+            "timeMS": 1142.856
+        },
+        {
+            "type": "noteOff",
+            "time": 2158,
+            "note": 67,
+            "velocity": 64,
+            "timeMS": 1284.5225249999999
+        },
+        {
+            "type": "noteOn",
+            "time": 2160,
+            "note": 65,
+            "velocity": 83,
+            "timeMS": 1285.713
+        },
+        {
+            "type": "noteOff",
+            "time": 2398,
+            "note": 65,
+            "velocity": 64,
+            "timeMS": 1427.3795249999998
+        },
+        {
+            "type": "noteOn",
+            "time": 2400,
+            "note": 67,
+            "velocity": 83,
+            "timeMS": 1428.57
+        },
+        {
+            "type": "noteOff",
+            "time": 2638,
+            "note": 67,
+            "velocity": 64,
+            "timeMS": 1570.236525
+        },
+        {
+            "type": "noteOn",
+            "time": 2640,
+            "note": 70,
+            "velocity": 83,
+            "timeMS": 1571.427
+        },
+        {
+            "type": "noteOff",
+            "time": 2878,
+            "note": 70,
+            "velocity": 64,
+            "timeMS": 1713.093525
+        },
+        {
+            "type": "noteOn",
+            "time": 2880,
+            "note": 67,
+            "velocity": 83,
+            "timeMS": 1714.2839999999999
+        },
+        {
+            "type": "noteOff",
+            "time": 3118,
+            "note": 67,
+            "velocity": 64,
+            "timeMS": 1855.950525
+        },
+        {
+            "type": "noteOn",
+            "time": 3120,
+            "note": 75,
+            "velocity": 83,
+            "timeMS": 1857.1409999999998
+        },
+        {
+            "type": "noteOff",
+            "time": 3358,
+            "note": 75,
+            "velocity": 64,
+            "timeMS": 1998.807525
+        },
+        {
+            "type": "noteOn",
+            "time": 3360,
+            "note": 36,
+            "velocity": 118,
+            "timeMS": 1999.9979999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 3410,
+            "pressure": 0,
+            "timeMS": 2029.759875
+        },
+        {
+            "type": "aftertouch",
+            "time": 3410,
+            "pressure": 83,
+            "timeMS": 2029.759875
+        },
+        {
+            "type": "aftertouch",
+            "time": 3785,
+            "pressure": 83,
+            "timeMS": 2252.9739375
+        },
+        {
+            "type": "aftertouch",
+            "time": 3785,
+            "pressure": 64,
+            "timeMS": 2252.9739375
+        },
+        {
+            "type": "aftertouch",
+            "time": 3825,
+            "pressure": 64,
+            "timeMS": 2276.7834374999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 3825,
+            "pressure": 5,
+            "timeMS": 2276.7834374999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 3855,
+            "pressure": 5,
+            "timeMS": 2294.6405624999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 3855,
+            "pressure": 0,
+            "timeMS": 2294.6405624999998
+        },
+        {
+            "type": "noteOff",
+            "time": 3918,
+            "note": 36,
+            "velocity": 84,
+            "timeMS": 2332.140525
+        },
+        {
+            "type": "noteOn",
+            "time": 4080,
+            "note": 36,
+            "velocity": 103,
+            "timeMS": 2428.569
+        },
+        {
+            "type": "aftertouch",
+            "time": 4100,
+            "pressure": 0,
+            "timeMS": 2440.47375
+        },
+        {
+            "type": "aftertouch",
+            "time": 4100,
+            "pressure": 83,
+            "timeMS": 2440.47375
+        },
+        {
+            "type": "aftertouch",
+            "time": 4370,
+            "pressure": 83,
+            "timeMS": 2601.187875
+        },
+        {
+            "type": "aftertouch",
+            "time": 4370,
+            "pressure": 17,
+            "timeMS": 2601.187875
+        },
+        {
+            "type": "aftertouch",
+            "time": 4405,
+            "pressure": 17,
+            "timeMS": 2622.0211875
+        },
+        {
+            "type": "aftertouch",
+            "time": 4405,
+            "pressure": 0,
+            "timeMS": 2622.0211875
+        },
+        {
+            "type": "noteOn",
+            "time": 6240,
+            "note": 41,
+            "velocity": 103,
+            "timeMS": 3714.2819999999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 6340,
+            "pressure": 0,
+            "timeMS": 3773.80575
+        },
+        {
+            "type": "aftertouch",
+            "time": 6340,
+            "pressure": 6,
+            "timeMS": 3773.80575
+        },
+        {
+            "type": "aftertouch",
+            "time": 6375,
+            "pressure": 6,
+            "timeMS": 3794.6390625
+        },
+        {
+            "type": "aftertouch",
+            "time": 6375,
+            "pressure": 70,
+            "timeMS": 3794.6390625
+        },
+        {
+            "type": "noteOff",
+            "time": 6378,
+            "note": 36,
+            "velocity": 46,
+            "timeMS": 3796.424775
+        },
+        {
+            "type": "aftertouch",
+            "time": 6410,
+            "pressure": 70,
+            "timeMS": 3815.472375
+        },
+        {
+            "type": "aftertouch",
+            "time": 6410,
+            "pressure": 0,
+            "timeMS": 3815.472375
+        },
+        {
+            "type": "noteOn",
+            "time": 6480,
+            "note": 43,
+            "velocity": 89,
+            "timeMS": 3857.1389999999997
+        },
+        {
+            "type": "noteOff",
+            "time": 6543,
+            "note": 41,
+            "velocity": 27,
+            "timeMS": 3894.6389624999997
+        },
+        {
+            "type": "noteOff",
+            "time": 6793,
+            "note": 43,
+            "velocity": 55,
+            "timeMS": 4043.4483375
+        },
+        {
+            "type": "aftertouch",
+            "time": 6820,
+            "pressure": 0,
+            "timeMS": 4059.51975
+        },
+        {
+            "type": "aftertouch",
+            "time": 6820,
+            "pressure": 83,
+            "timeMS": 4059.51975
+        },
+        {
+            "type": "noteOn",
+            "time": 6840,
+            "note": 36,
+            "velocity": 103,
+            "timeMS": 4071.4244999999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 7065,
+            "pressure": 83,
+            "timeMS": 4205.3529375
+        },
+        {
+            "type": "aftertouch",
+            "time": 7065,
+            "pressure": 51,
+            "timeMS": 4205.3529375
+        },
+        {
+            "type": "aftertouch",
+            "time": 7095,
+            "pressure": 51,
+            "timeMS": 4223.2100625
+        },
+        {
+            "type": "aftertouch",
+            "time": 7095,
+            "pressure": 1,
+            "timeMS": 4223.2100625
+        },
+        {
+            "type": "aftertouch",
+            "time": 7135,
+            "pressure": 1,
+            "timeMS": 4247.0195625
+        },
+        {
+            "type": "aftertouch",
+            "time": 7135,
+            "pressure": 0,
+            "timeMS": 4247.0195625
+        },
+        {
+            "type": "noteOff",
+            "time": 7383,
+            "note": 36,
+            "velocity": 66,
+            "timeMS": 4394.6384625
+        },
+        {
+            "type": "noteOn",
+            "time": 7440,
+            "note": 36,
+            "velocity": 107,
+            "timeMS": 4428.567
+        },
+        {
+            "type": "aftertouch",
+            "time": 7480,
+            "pressure": 0,
+            "timeMS": 4452.376499999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 7480,
+            "pressure": 83,
+            "timeMS": 4452.376499999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 7825,
+            "pressure": 83,
+            "timeMS": 4657.7334375
+        },
+        {
+            "type": "aftertouch",
+            "time": 7825,
+            "pressure": 23,
+            "timeMS": 4657.7334375
+        },
+        {
+            "type": "aftertouch",
+            "time": 7855,
+            "pressure": 23,
+            "timeMS": 4675.5905625
+        },
+        {
+            "type": "aftertouch",
+            "time": 7855,
+            "pressure": 0,
+            "timeMS": 4675.5905625
+        },
+        {
+            "type": "noteOn",
+            "time": 9120,
+            "note": 39,
+            "velocity": 111,
+            "timeMS": 5428.566
+        },
+        {
+            "type": "noteOff",
+            "time": 9203,
+            "note": 36,
+            "velocity": 75,
+            "timeMS": 5477.9707124999995
+        },
+        {
+            "type": "noteOn",
+            "time": 9600,
+            "note": 38,
+            "velocity": 76,
+            "timeMS": 5714.28
+        },
+        {
+            "type": "noteOff",
+            "time": 9743,
+            "note": 39,
+            "velocity": 33,
+            "timeMS": 5799.3989624999995
+        },
+        {
+            "type": "noteOff",
+            "time": 10053,
+            "note": 38,
+            "velocity": 73,
+            "timeMS": 5983.9225875
+        },
+        {
+            "type": "noteOn",
+            "time": 10080,
+            "note": 34,
+            "velocity": 107,
+            "timeMS": 5999.994
+        },
+        {
+            "type": "noteOff",
+            "time": 10713,
+            "note": 34,
+            "velocity": 88,
+            "timeMS": 6376.7793375
+        },
+        {
+            "type": "noteOn",
+            "time": 10800,
+            "note": 34,
+            "velocity": 86,
+            "timeMS": 6428.565
+        },
+        {
+            "type": "noteOn",
+            "time": 12960,
+            "note": 36,
+            "velocity": 93,
+            "timeMS": 7714.277999999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 12965,
+            "pressure": 0,
+            "timeMS": 7717.2541875
+        },
+        {
+            "type": "aftertouch",
+            "time": 12965,
+            "pressure": 13,
+            "timeMS": 7717.2541875
+        },
+        {
+            "type": "aftertouch",
+            "time": 12990,
+            "pressure": 13,
+            "timeMS": 7732.135125
+        },
+        {
+            "type": "aftertouch",
+            "time": 12990,
+            "pressure": 0,
+            "timeMS": 7732.135125
+        },
+        {
+            "type": "noteOff",
+            "time": 13043,
+            "note": 34,
+            "velocity": 67,
+            "timeMS": 7763.6827125
+        },
+        {
+            "type": "noteOn",
+            "time": 13440,
+            "note": 34,
+            "velocity": 107,
+            "timeMS": 7999.991999999999
+        },
+        {
+            "type": "noteOff",
+            "time": 13448,
+            "note": 36,
+            "velocity": 55,
+            "timeMS": 8004.7539
+        },
+        {
+            "type": "noteOff",
+            "time": 14123,
+            "note": 34,
+            "velocity": 81,
+            "timeMS": 8406.5392125
+        },
+        {
+            "type": "noteOn",
+            "time": 14280,
+            "note": 34,
+            "velocity": 86,
+            "timeMS": 8499.9915
+        },
+        {
+            "type": "noteOn",
+            "time": 16320,
+            "note": 32,
+            "velocity": 93,
+            "timeMS": 9714.276
+        },
+        {
+            "type": "noteOff",
+            "time": 16393,
+            "note": 34,
+            "velocity": 54,
+            "timeMS": 9757.728337499999
+        },
+        {
+            "type": "noteOn",
+            "time": 16560,
+            "note": 31,
+            "velocity": 93,
+            "timeMS": 9857.133
+        },
+        {
+            "type": "noteOff",
+            "time": 16638,
+            "note": 32,
+            "velocity": 82,
+            "timeMS": 9903.561525
+        },
+        {
+            "type": "aftertouch",
+            "time": 16650,
+            "pressure": 0,
+            "timeMS": 9910.704375
+        },
+        {
+            "type": "aftertouch",
+            "time": 16650,
+            "pressure": 58,
+            "timeMS": 9910.704375
+        },
+        {
+            "type": "aftertouch",
+            "time": 16685,
+            "pressure": 58,
+            "timeMS": 9931.5376875
+        },
+        {
+            "type": "aftertouch",
+            "time": 16685,
+            "pressure": 0,
+            "timeMS": 9931.5376875
+        },
+        {
+            "type": "noteOn",
+            "time": 16800,
+            "note": 29,
+            "velocity": 114,
+            "timeMS": 9999.99
+        },
+        {
+            "type": "aftertouch",
+            "time": 16820,
+            "pressure": 0,
+            "timeMS": 10011.89475
+        },
+        {
+            "type": "aftertouch",
+            "time": 16820,
+            "pressure": 81,
+            "timeMS": 10011.89475
+        },
+        {
+            "type": "aftertouch",
+            "time": 16860,
+            "pressure": 81,
+            "timeMS": 10035.704249999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 16860,
+            "pressure": 83,
+            "timeMS": 10035.704249999999
+        },
+        {
+            "type": "noteOff",
+            "time": 16913,
+            "note": 31,
+            "velocity": 50,
+            "timeMS": 10067.2518375
+        },
+        {
+            "type": "aftertouch",
+            "time": 17270,
+            "pressure": 83,
+            "timeMS": 10279.751624999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 17270,
+            "pressure": 72,
+            "timeMS": 10279.751624999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 17305,
+            "pressure": 72,
+            "timeMS": 10300.5849375
+        },
+        {
+            "type": "aftertouch",
+            "time": 17305,
+            "pressure": 48,
+            "timeMS": 10300.5849375
+        },
+        {
+            "type": "aftertouch",
+            "time": 17340,
+            "pressure": 48,
+            "timeMS": 10321.418249999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 17340,
+            "pressure": 16,
+            "timeMS": 10321.418249999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 17375,
+            "pressure": 16,
+            "timeMS": 10342.2515625
+        },
+        {
+            "type": "aftertouch",
+            "time": 17375,
+            "pressure": 0,
+            "timeMS": 10342.2515625
+        },
+        {
+            "type": "noteOff",
+            "time": 17488,
+            "note": 29,
+            "velocity": 66,
+            "timeMS": 10409.5134
+        },
+        {
+            "type": "aftertouch",
+            "time": 17620,
+            "pressure": 0,
+            "timeMS": 10488.08475
+        },
+        {
+            "type": "aftertouch",
+            "time": 17620,
+            "pressure": 83,
+            "timeMS": 10488.08475
+        },
+        {
+            "type": "noteOn",
+            "time": 17640,
+            "note": 29,
+            "velocity": 114,
+            "timeMS": 10499.9895
+        },
+        {
+            "type": "aftertouch",
+            "time": 17855,
+            "pressure": 83,
+            "timeMS": 10627.9655625
+        },
+        {
+            "type": "aftertouch",
+            "time": 17855,
+            "pressure": 80,
+            "timeMS": 10627.9655625
+        },
+        {
+            "type": "aftertouch",
+            "time": 17890,
+            "pressure": 80,
+            "timeMS": 10648.798875
+        },
+        {
+            "type": "aftertouch",
+            "time": 17890,
+            "pressure": 56,
+            "timeMS": 10648.798875
+        },
+        {
+            "type": "aftertouch",
+            "time": 17925,
+            "pressure": 56,
+            "timeMS": 10669.6321875
+        },
+        {
+            "type": "aftertouch",
+            "time": 17925,
+            "pressure": 34,
+            "timeMS": 10669.6321875
+        },
+        {
+            "type": "aftertouch",
+            "time": 17995,
+            "pressure": 34,
+            "timeMS": 10711.2988125
+        },
+        {
+            "type": "aftertouch",
+            "time": 17995,
+            "pressure": 18,
+            "timeMS": 10711.2988125
+        },
+        {
+            "type": "aftertouch",
+            "time": 18030,
+            "pressure": 18,
+            "timeMS": 10732.132125
+        },
+        {
+            "type": "aftertouch",
+            "time": 18030,
+            "pressure": 0,
+            "timeMS": 10732.132125
+        },
+        {
+            "type": "noteOn",
+            "time": 19680,
+            "note": 36,
+            "velocity": 103,
+            "timeMS": 11714.274
+        },
+        {
+            "type": "aftertouch",
+            "time": 19755,
+            "pressure": 0,
+            "timeMS": 11758.9168125
+        },
+        {
+            "type": "aftertouch",
+            "time": 19755,
+            "pressure": 23,
+            "timeMS": 11758.9168125
+        },
+        {
+            "type": "noteOff",
+            "time": 19758,
+            "note": 29,
+            "velocity": 37,
+            "timeMS": 11760.702524999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 19785,
+            "pressure": 23,
+            "timeMS": 11776.7739375
+        },
+        {
+            "type": "aftertouch",
+            "time": 19785,
+            "pressure": 0,
+            "timeMS": 11776.7739375
+        },
+        {
+            "type": "noteOn",
+            "time": 20160,
+            "note": 29,
+            "velocity": 111,
+            "timeMS": 11999.988
+        },
+        {
+            "type": "noteOff",
+            "time": 20168,
+            "note": 36,
+            "velocity": 70,
+            "timeMS": 12004.749899999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 20170,
+            "pressure": 0,
+            "timeMS": 12005.940375
+        },
+        {
+            "type": "aftertouch",
+            "time": 20170,
+            "pressure": 40,
+            "timeMS": 12005.940375
+        },
+        {
+            "type": "aftertouch",
+            "time": 20200,
+            "pressure": 40,
+            "timeMS": 12023.797499999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 20200,
+            "pressure": 83,
+            "timeMS": 12023.797499999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 20445,
+            "pressure": 83,
+            "timeMS": 12169.6306875
+        },
+        {
+            "type": "aftertouch",
+            "time": 20445,
+            "pressure": 82,
+            "timeMS": 12169.6306875
+        },
+        {
+            "type": "aftertouch",
+            "time": 20475,
+            "pressure": 82,
+            "timeMS": 12187.4878125
+        },
+        {
+            "type": "aftertouch",
+            "time": 20475,
+            "pressure": 63,
+            "timeMS": 12187.4878125
+        },
+        {
+            "type": "aftertouch",
+            "time": 20515,
+            "pressure": 63,
+            "timeMS": 12211.297312499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 20515,
+            "pressure": 12,
+            "timeMS": 12211.297312499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 20545,
+            "pressure": 12,
+            "timeMS": 12229.1544375
+        },
+        {
+            "type": "aftertouch",
+            "time": 20545,
+            "pressure": 0,
+            "timeMS": 12229.1544375
+        },
+        {
+            "type": "noteOff",
+            "time": 20883,
+            "note": 29,
+            "velocity": 32,
+            "timeMS": 12430.3447125
+        },
+        {
+            "type": "aftertouch",
+            "time": 20995,
+            "pressure": 0,
+            "timeMS": 12497.011312499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 20995,
+            "pressure": 83,
+            "timeMS": 12497.011312499999
+        },
+        {
+            "type": "noteOn",
+            "time": 21000,
+            "note": 29,
+            "velocity": 103,
+            "timeMS": 12499.9875
+        },
+        {
+            "type": "aftertouch",
+            "time": 21200,
+            "pressure": 83,
+            "timeMS": 12619.035
+        },
+        {
+            "type": "aftertouch",
+            "time": 21200,
+            "pressure": 73,
+            "timeMS": 12619.035
+        },
+        {
+            "type": "aftertouch",
+            "time": 21235,
+            "pressure": 73,
+            "timeMS": 12639.868312499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 21235,
+            "pressure": 61,
+            "timeMS": 12639.868312499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 21265,
+            "pressure": 61,
+            "timeMS": 12657.7254375
+        },
+        {
+            "type": "aftertouch",
+            "time": 21265,
+            "pressure": 13,
+            "timeMS": 12657.7254375
+        },
+        {
+            "type": "aftertouch",
+            "time": 21305,
+            "pressure": 13,
+            "timeMS": 12681.534937499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 21305,
+            "pressure": 0,
+            "timeMS": 12681.534937499999
+        },
+        {
+            "type": "noteOn",
+            "time": 23040,
+            "note": 31,
+            "velocity": 114,
+            "timeMS": 13714.271999999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 23100,
+            "pressure": 0,
+            "timeMS": 13749.98625
+        },
+        {
+            "type": "aftertouch",
+            "time": 23100,
+            "pressure": 83,
+            "timeMS": 13749.98625
+        },
+        {
+            "type": "noteOff",
+            "time": 23168,
+            "note": 29,
+            "velocity": 47,
+            "timeMS": 13790.462399999999
+        },
+        {
+            "type": "noteOn",
+            "time": 23520,
+            "note": 38,
+            "velocity": 103,
+            "timeMS": 13999.985999999999
+        },
+        {
+            "type": "noteOff",
+            "time": 23583,
+            "note": 31,
+            "velocity": 72,
+            "timeMS": 14037.485962499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 23790,
+            "pressure": 83,
+            "timeMS": 14160.700125
+        },
+        {
+            "type": "aftertouch",
+            "time": 23790,
+            "pressure": 74,
+            "timeMS": 14160.700125
+        },
+        {
+            "type": "aftertouch",
+            "time": 23825,
+            "pressure": 74,
+            "timeMS": 14181.5334375
+        },
+        {
+            "type": "aftertouch",
+            "time": 23825,
+            "pressure": 76,
+            "timeMS": 14181.5334375
+        },
+        {
+            "type": "aftertouch",
+            "time": 23860,
+            "pressure": 76,
+            "timeMS": 14202.36675
+        },
+        {
+            "type": "aftertouch",
+            "time": 23860,
+            "pressure": 69,
+            "timeMS": 14202.36675
+        },
+        {
+            "type": "aftertouch",
+            "time": 23885,
+            "pressure": 69,
+            "timeMS": 14217.2476875
+        },
+        {
+            "type": "aftertouch",
+            "time": 23885,
+            "pressure": 66,
+            "timeMS": 14217.2476875
+        },
+        {
+            "type": "aftertouch",
+            "time": 23930,
+            "pressure": 66,
+            "timeMS": 14244.033374999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 23930,
+            "pressure": 44,
+            "timeMS": 14244.033374999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 23955,
+            "pressure": 44,
+            "timeMS": 14258.9143125
+        },
+        {
+            "type": "aftertouch",
+            "time": 23955,
+            "pressure": 30,
+            "timeMS": 14258.9143125
+        },
+        {
+            "type": "aftertouch",
+            "time": 23990,
+            "pressure": 30,
+            "timeMS": 14279.747625
+        },
+        {
+            "type": "aftertouch",
+            "time": 23990,
+            "pressure": 0,
+            "timeMS": 14279.747625
+        },
+        {
+            "type": "noteOff",
+            "time": 24168,
+            "note": 38,
+            "velocity": 83,
+            "timeMS": 14385.6999
+        },
+        {
+            "type": "noteOn",
+            "time": 24240,
+            "note": 38,
+            "velocity": 121,
+            "timeMS": 14428.556999999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 24270,
+            "pressure": 0,
+            "timeMS": 14446.414125
+        },
+        {
+            "type": "aftertouch",
+            "time": 24270,
+            "pressure": 54,
+            "timeMS": 14446.414125
+        },
+        {
+            "type": "aftertouch",
+            "time": 24305,
+            "pressure": 54,
+            "timeMS": 14467.2474375
+        },
+        {
+            "type": "aftertouch",
+            "time": 24305,
+            "pressure": 83,
+            "timeMS": 14467.2474375
+        },
+        {
+            "type": "aftertouch",
+            "time": 24445,
+            "pressure": 83,
+            "timeMS": 14550.5806875
+        },
+        {
+            "type": "aftertouch",
+            "time": 24445,
+            "pressure": 44,
+            "timeMS": 14550.5806875
+        },
+        {
+            "type": "aftertouch",
+            "time": 24475,
+            "pressure": 44,
+            "timeMS": 14568.4378125
+        },
+        {
+            "type": "aftertouch",
+            "time": 24475,
+            "pressure": 0,
+            "timeMS": 14568.4378125
+        },
+        {
+            "type": "noteOn",
+            "time": 25920,
+            "note": 43,
+            "velocity": 95,
+            "timeMS": 15428.555999999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 25925,
+            "pressure": 0,
+            "timeMS": 15431.532187499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 25925,
+            "pressure": 75,
+            "timeMS": 15431.532187499999
+        },
+        {
+            "type": "noteOff",
+            "time": 25958,
+            "note": 38,
+            "velocity": 70,
+            "timeMS": 15451.175024999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 25960,
+            "pressure": 75,
+            "timeMS": 15452.3655
+        },
+        {
+            "type": "aftertouch",
+            "time": 25960,
+            "pressure": 0,
+            "timeMS": 15452.3655
+        },
+        {
+            "type": "noteOn",
+            "time": 26160,
+            "note": 41,
+            "velocity": 114,
+            "timeMS": 15571.412999999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 26170,
+            "pressure": 0,
+            "timeMS": 15577.365375
+        },
+        {
+            "type": "aftertouch",
+            "time": 26170,
+            "pressure": 48,
+            "timeMS": 15577.365375
+        },
+        {
+            "type": "aftertouch",
+            "time": 26195,
+            "pressure": 48,
+            "timeMS": 15592.2463125
+        },
+        {
+            "type": "aftertouch",
+            "time": 26195,
+            "pressure": 0,
+            "timeMS": 15592.2463125
+        },
+        {
+            "type": "noteOff",
+            "time": 26298,
+            "note": 43,
+            "velocity": 3,
+            "timeMS": 15653.555774999999
+        },
+        {
+            "type": "noteOn",
+            "time": 26400,
+            "note": 36,
+            "velocity": 114,
+            "timeMS": 15714.269999999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 26440,
+            "pressure": 0,
+            "timeMS": 15738.0795
+        },
+        {
+            "type": "aftertouch",
+            "time": 26440,
+            "pressure": 83,
+            "timeMS": 15738.0795
+        },
+        {
+            "type": "aftertouch",
+            "time": 26510,
+            "pressure": 83,
+            "timeMS": 15779.746125
+        },
+        {
+            "type": "aftertouch",
+            "time": 26510,
+            "pressure": 7,
+            "timeMS": 15779.746125
+        },
+        {
+            "type": "aftertouch",
+            "time": 26545,
+            "pressure": 7,
+            "timeMS": 15800.579437499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 26545,
+            "pressure": 27,
+            "timeMS": 15800.579437499999
+        },
+        {
+            "type": "aftertouch",
+            "time": 26580,
+            "pressure": 27,
+            "timeMS": 15821.41275
+        },
+        {
+            "type": "aftertouch",
+            "time": 26580,
+            "pressure": 0,
+            "timeMS": 15821.41275
+        },
+        {
+            "type": "noteOff",
+            "time": 26698,
+            "note": 41,
+            "velocity": 1,
+            "timeMS": 15891.650775
+        },
+        {
+            "type": "aftertouch",
+            "time": 26855,
+            "pressure": 0,
+            "timeMS": 15985.103062499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 26855,
+            "pressure": 83,
+            "timeMS": 15985.103062499998
+        },
+        {
+            "type": "noteOn",
+            "time": 26880,
+            "note": 35,
+            "velocity": 111,
+            "timeMS": 15999.983999999999
+        },
+        {
+            "type": "noteOff",
+            "time": 26883,
+            "note": 36,
+            "velocity": 64,
+            "timeMS": 16001.7697125
+        },
+        {
+            "type": "aftertouch",
+            "time": 27340,
+            "pressure": 83,
+            "timeMS": 16273.793249999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 27340,
+            "pressure": 54,
+            "timeMS": 16273.793249999999
+        },
+        {
+            "type": "aftertouch",
+            "time": 27370,
+            "pressure": 54,
+            "timeMS": 16291.650375
+        },
+        {
+            "type": "aftertouch",
+            "time": 27370,
+            "pressure": 22,
+            "timeMS": 16291.650375
+        },
+        {
+            "type": "aftertouch",
+            "time": 27405,
+            "pressure": 22,
+            "timeMS": 16312.4836875
+        },
+        {
+            "type": "aftertouch",
+            "time": 27405,
+            "pressure": 0,
+            "timeMS": 16312.4836875
+        },
+        {
+            "type": "noteOff",
+            "time": 27523,
+            "note": 35,
+            "velocity": 89,
+            "timeMS": 16382.721712499999
+        },
+        {
+            "type": "noteOn",
+            "time": 27600,
+            "note": 35,
+            "velocity": 116,
+            "timeMS": 16428.555
+        },
+        {
+            "type": "aftertouch",
+            "time": 27615,
+            "pressure": 0,
+            "timeMS": 16437.483562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 27615,
+            "pressure": 83,
+            "timeMS": 16437.483562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28340,
+            "pressure": 83,
+            "timeMS": 16869.030749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28340,
+            "pressure": 82,
+            "timeMS": 16869.030749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28375,
+            "pressure": 82,
+            "timeMS": 16889.8640625
+        },
+        {
+            "type": "aftertouch",
+            "time": 28375,
+            "pressure": 69,
+            "timeMS": 16889.8640625
+        },
+        {
+            "type": "aftertouch",
+            "time": 28545,
+            "pressure": 69,
+            "timeMS": 16991.0544375
+        },
+        {
+            "type": "aftertouch",
+            "time": 28545,
+            "pressure": 66,
+            "timeMS": 16991.0544375
+        },
+        {
+            "type": "aftertouch",
+            "time": 28575,
+            "pressure": 66,
+            "timeMS": 17008.911562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28575,
+            "pressure": 60,
+            "timeMS": 17008.911562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28615,
+            "pressure": 60,
+            "timeMS": 17032.7210625
+        },
+        {
+            "type": "aftertouch",
+            "time": 28615,
+            "pressure": 58,
+            "timeMS": 17032.7210625
+        },
+        {
+            "type": "aftertouch",
+            "time": 28645,
+            "pressure": 58,
+            "timeMS": 17050.5781875
+        },
+        {
+            "type": "aftertouch",
+            "time": 28645,
+            "pressure": 56,
+            "timeMS": 17050.5781875
+        },
+        {
+            "type": "aftertouch",
+            "time": 28680,
+            "pressure": 56,
+            "timeMS": 17071.4115
+        },
+        {
+            "type": "aftertouch",
+            "time": 28680,
+            "pressure": 54,
+            "timeMS": 17071.4115
+        },
+        {
+            "type": "aftertouch",
+            "time": 28720,
+            "pressure": 54,
+            "timeMS": 17095.220999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28720,
+            "pressure": 52,
+            "timeMS": 17095.220999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28750,
+            "pressure": 52,
+            "timeMS": 17113.078125
+        },
+        {
+            "type": "aftertouch",
+            "time": 28750,
+            "pressure": 48,
+            "timeMS": 17113.078125
+        },
+        {
+            "type": "aftertouch",
+            "time": 28785,
+            "pressure": 48,
+            "timeMS": 17133.9114375
+        },
+        {
+            "type": "aftertouch",
+            "time": 28785,
+            "pressure": 44,
+            "timeMS": 17133.9114375
+        },
+        {
+            "type": "aftertouch",
+            "time": 28820,
+            "pressure": 44,
+            "timeMS": 17154.744749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28820,
+            "pressure": 42,
+            "timeMS": 17154.744749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28855,
+            "pressure": 42,
+            "timeMS": 17175.5780625
+        },
+        {
+            "type": "aftertouch",
+            "time": 28855,
+            "pressure": 38,
+            "timeMS": 17175.5780625
+        },
+        {
+            "type": "aftertouch",
+            "time": 28890,
+            "pressure": 38,
+            "timeMS": 17196.411375
+        },
+        {
+            "type": "aftertouch",
+            "time": 28890,
+            "pressure": 21,
+            "timeMS": 17196.411375
+        },
+        {
+            "type": "aftertouch",
+            "time": 28925,
+            "pressure": 21,
+            "timeMS": 17217.2446875
+        },
+        {
+            "type": "aftertouch",
+            "time": 28925,
+            "pressure": 17,
+            "timeMS": 17217.2446875
+        },
+        {
+            "type": "aftertouch",
+            "time": 28960,
+            "pressure": 17,
+            "timeMS": 17238.077999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28960,
+            "pressure": 5,
+            "timeMS": 17238.077999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 28990,
+            "pressure": 5,
+            "timeMS": 17255.935125
+        },
+        {
+            "type": "aftertouch",
+            "time": 28990,
+            "pressure": 0,
+            "timeMS": 17255.935125
+        },
+        {
+            "type": "noteOff",
+            "time": 29223,
+            "note": 35,
+            "velocity": 68,
+            "timeMS": 17394.6254625
+        },
+        {
+            "type": "aftertouch",
+            "time": 29265,
+            "pressure": 0,
+            "timeMS": 17419.6254375
+        },
+        {
+            "type": "aftertouch",
+            "time": 29265,
+            "pressure": 83,
+            "timeMS": 17419.6254375
+        },
+        {
+            "type": "noteOn",
+            "time": 29280,
+            "note": 36,
+            "velocity": 114,
+            "timeMS": 17428.554
+        },
+        {
+            "type": "aftertouch",
+            "time": 29440,
+            "pressure": 83,
+            "timeMS": 17523.791999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 29440,
+            "pressure": 40,
+            "timeMS": 17523.791999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 29475,
+            "pressure": 40,
+            "timeMS": 17544.6253125
+        },
+        {
+            "type": "aftertouch",
+            "time": 29475,
+            "pressure": 0,
+            "timeMS": 17544.6253125
+        },
+        {
+            "type": "noteOn",
+            "time": 29520,
+            "note": 38,
+            "velocity": 95,
+            "timeMS": 17571.411
+        },
+        {
+            "type": "noteOff",
+            "time": 29648,
+            "note": 36,
+            "velocity": 53,
+            "timeMS": 17647.6014
+        },
+        {
+            "type": "noteOn",
+            "time": 29760,
+            "note": 39,
+            "velocity": 103,
+            "timeMS": 17714.268
+        },
+        {
+            "type": "noteOff",
+            "time": 29828,
+            "note": 38,
+            "velocity": 48,
+            "timeMS": 17754.74415
+        },
+        {
+            "type": "noteOff",
+            "time": 30218,
+            "note": 39,
+            "velocity": 85,
+            "timeMS": 17986.886775
+        },
+        {
+            "type": "noteOn",
+            "time": 30240,
+            "note": 36,
+            "velocity": 116,
+            "timeMS": 17999.982
+        },
+        {
+            "type": "aftertouch",
+            "time": 30265,
+            "pressure": 0,
+            "timeMS": 18014.8629375
+        },
+        {
+            "type": "aftertouch",
+            "time": 30265,
+            "pressure": 83,
+            "timeMS": 18014.8629375
+        },
+        {
+            "type": "aftertouch",
+            "time": 30755,
+            "pressure": 83,
+            "timeMS": 18306.5293125
+        },
+        {
+            "type": "aftertouch",
+            "time": 30755,
+            "pressure": 0,
+            "timeMS": 18306.5293125
+        },
+        {
+            "type": "noteOff",
+            "time": 30843,
+            "note": 36,
+            "velocity": 83,
+            "timeMS": 18358.9102125
+        },
+        {
+            "type": "noteOn",
+            "time": 30960,
+            "note": 36,
+            "velocity": 103,
+            "timeMS": 18428.553
+        },
+        {
+            "type": "aftertouch",
+            "time": 30990,
+            "pressure": 0,
+            "timeMS": 18446.410125
+        },
+        {
+            "type": "aftertouch",
+            "time": 30990,
+            "pressure": 83,
+            "timeMS": 18446.410125
+        },
+        {
+            "type": "aftertouch",
+            "time": 31445,
+            "pressure": 83,
+            "timeMS": 18717.2431875
+        },
+        {
+            "type": "aftertouch",
+            "time": 31445,
+            "pressure": 78,
+            "timeMS": 18717.2431875
+        },
+        {
+            "type": "aftertouch",
+            "time": 31475,
+            "pressure": 78,
+            "timeMS": 18735.1003125
+        },
+        {
+            "type": "aftertouch",
+            "time": 31475,
+            "pressure": 34,
+            "timeMS": 18735.1003125
+        },
+        {
+            "type": "aftertouch",
+            "time": 31515,
+            "pressure": 34,
+            "timeMS": 18758.9098125
+        },
+        {
+            "type": "aftertouch",
+            "time": 31515,
+            "pressure": 29,
+            "timeMS": 18758.9098125
+        },
+        {
+            "type": "aftertouch",
+            "time": 31540,
+            "pressure": 29,
+            "timeMS": 18773.79075
+        },
+        {
+            "type": "aftertouch",
+            "time": 31540,
+            "pressure": 31,
+            "timeMS": 18773.79075
+        },
+        {
+            "type": "aftertouch",
+            "time": 31575,
+            "pressure": 31,
+            "timeMS": 18794.6240625
+        },
+        {
+            "type": "aftertouch",
+            "time": 31575,
+            "pressure": 34,
+            "timeMS": 18794.6240625
+        },
+        {
+            "type": "aftertouch",
+            "time": 31615,
+            "pressure": 34,
+            "timeMS": 18818.4335625
+        },
+        {
+            "type": "aftertouch",
+            "time": 31615,
+            "pressure": 51,
+            "timeMS": 18818.4335625
+        },
+        {
+            "type": "aftertouch",
+            "time": 31645,
+            "pressure": 51,
+            "timeMS": 18836.2906875
+        },
+        {
+            "type": "aftertouch",
+            "time": 31645,
+            "pressure": 59,
+            "timeMS": 18836.2906875
+        },
+        {
+            "type": "aftertouch",
+            "time": 31685,
+            "pressure": 59,
+            "timeMS": 18860.1001875
+        },
+        {
+            "type": "aftertouch",
+            "time": 31685,
+            "pressure": 60,
+            "timeMS": 18860.1001875
+        },
+        {
+            "type": "aftertouch",
+            "time": 31750,
+            "pressure": 60,
+            "timeMS": 18898.790624999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 31750,
+            "pressure": 48,
+            "timeMS": 18898.790624999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 31785,
+            "pressure": 48,
+            "timeMS": 18919.6239375
+        },
+        {
+            "type": "aftertouch",
+            "time": 31785,
+            "pressure": 5,
+            "timeMS": 18919.6239375
+        },
+        {
+            "type": "aftertouch",
+            "time": 31820,
+            "pressure": 5,
+            "timeMS": 18940.45725
+        },
+        {
+            "type": "aftertouch",
+            "time": 31820,
+            "pressure": 0,
+            "timeMS": 18940.45725
+        },
+        {
+            "type": "noteOff",
+            "time": 32158,
+            "note": 36,
+            "velocity": 66,
+            "timeMS": 19141.647525
+        },
+        {
+            "type": "noteOn",
+            "time": 32160,
+            "note": 41,
+            "velocity": 114,
+            "timeMS": 19142.838
+        },
+        {
+            "type": "noteOff",
+            "time": 32628,
+            "note": 41,
+            "velocity": 28,
+            "timeMS": 19421.40915
+        },
+        {
+            "type": "noteOn",
+            "time": 32640,
+            "note": 36,
+            "velocity": 114,
+            "timeMS": 19428.552
+        },
+        {
+            "type": "aftertouch",
+            "time": 32650,
+            "pressure": 0,
+            "timeMS": 19434.504375
+        },
+        {
+            "type": "aftertouch",
+            "time": 32650,
+            "pressure": 83,
+            "timeMS": 19434.504375
+        },
+        {
+            "type": "aftertouch",
+            "time": 32750,
+            "pressure": 83,
+            "timeMS": 19494.028125
+        },
+        {
+            "type": "aftertouch",
+            "time": 32750,
+            "pressure": 0,
+            "timeMS": 19494.028125
+        },
+        {
+            "type": "noteOn",
+            "time": 32760,
+            "note": 39,
+            "velocity": 111,
+            "timeMS": 19499.980499999998
+        },
+        {
+            "type": "noteOff",
+            "time": 32883,
+            "note": 36,
+            "velocity": 46,
+            "timeMS": 19573.1947125
+        },
+        {
+            "type": "noteOff",
+            "time": 33598,
+            "note": 39,
+            "velocity": 47,
+            "timeMS": 19998.789525
+        },
+        {
+            "type": "noteOn",
+            "time": 33600,
+            "note": 36,
+            "velocity": 91,
+            "timeMS": 19999.98
+        },
+        {
+            "type": "aftertouch",
+            "time": 33615,
+            "pressure": 0,
+            "timeMS": 20008.9085625
+        },
+        {
+            "type": "aftertouch",
+            "time": 33615,
+            "pressure": 1,
+            "timeMS": 20008.9085625
+        },
+        {
+            "type": "aftertouch",
+            "time": 33650,
+            "pressure": 1,
+            "timeMS": 20029.741875
+        },
+        {
+            "type": "aftertouch",
+            "time": 33650,
+            "pressure": 83,
+            "timeMS": 20029.741875
+        },
+        {
+            "type": "aftertouch",
+            "time": 33855,
+            "pressure": 83,
+            "timeMS": 20151.7655625
+        },
+        {
+            "type": "aftertouch",
+            "time": 33855,
+            "pressure": 73,
+            "timeMS": 20151.7655625
+        },
+        {
+            "type": "aftertouch",
+            "time": 33885,
+            "pressure": 73,
+            "timeMS": 20169.6226875
+        },
+        {
+            "type": "aftertouch",
+            "time": 33885,
+            "pressure": 83,
+            "timeMS": 20169.6226875
+        },
+        {
+            "type": "aftertouch",
+            "time": 33925,
+            "pressure": 83,
+            "timeMS": 20193.4321875
+        },
+        {
+            "type": "aftertouch",
+            "time": 33925,
+            "pressure": 55,
+            "timeMS": 20193.4321875
+        },
+        {
+            "type": "aftertouch",
+            "time": 33955,
+            "pressure": 55,
+            "timeMS": 20211.2893125
+        },
+        {
+            "type": "aftertouch",
+            "time": 33955,
+            "pressure": 22,
+            "timeMS": 20211.2893125
+        },
+        {
+            "type": "aftertouch",
+            "time": 33995,
+            "pressure": 22,
+            "timeMS": 20235.0988125
+        },
+        {
+            "type": "aftertouch",
+            "time": 33995,
+            "pressure": 16,
+            "timeMS": 20235.0988125
+        },
+        {
+            "type": "aftertouch",
+            "time": 34025,
+            "pressure": 16,
+            "timeMS": 20252.9559375
+        },
+        {
+            "type": "aftertouch",
+            "time": 34025,
+            "pressure": 0,
+            "timeMS": 20252.9559375
+        },
+        {
+            "type": "noteOff",
+            "time": 34148,
+            "note": 36,
+            "velocity": 83,
+            "timeMS": 20326.170149999998
+        },
+        {
+            "type": "noteOn",
+            "time": 34320,
+            "note": 36,
+            "velocity": 111,
+            "timeMS": 20428.551
+        },
+        {
+            "type": "aftertouch",
+            "time": 34340,
+            "pressure": 0,
+            "timeMS": 20440.455749999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 34340,
+            "pressure": 83,
+            "timeMS": 20440.455749999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 35405,
+            "pressure": 83,
+            "timeMS": 21074.383687499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 35405,
+            "pressure": 40,
+            "timeMS": 21074.383687499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 35440,
+            "pressure": 40,
+            "timeMS": 21095.217
+        },
+        {
+            "type": "aftertouch",
+            "time": 35440,
+            "pressure": 0,
+            "timeMS": 21095.217
+        },
+        {
+            "type": "noteOn",
+            "time": 35520,
+            "note": 41,
+            "velocity": 116,
+            "timeMS": 21142.836
+        },
+        {
+            "type": "noteOff",
+            "time": 35573,
+            "note": 36,
+            "velocity": 66,
+            "timeMS": 21174.3835875
+        },
+        {
+            "type": "aftertouch",
+            "time": 35615,
+            "pressure": 0,
+            "timeMS": 21199.3835625
+        },
+        {
+            "type": "aftertouch",
+            "time": 35615,
+            "pressure": 83,
+            "timeMS": 21199.3835625
+        },
+        {
+            "type": "aftertouch",
+            "time": 35645,
+            "pressure": 83,
+            "timeMS": 21217.240687499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 35645,
+            "pressure": 0,
+            "timeMS": 21217.240687499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 35680,
+            "pressure": 0,
+            "timeMS": 21238.074
+        },
+        {
+            "type": "aftertouch",
+            "time": 35680,
+            "pressure": 14,
+            "timeMS": 21238.074
+        },
+        {
+            "type": "aftertouch",
+            "time": 35715,
+            "pressure": 14,
+            "timeMS": 21258.9073125
+        },
+        {
+            "type": "aftertouch",
+            "time": 35715,
+            "pressure": 0,
+            "timeMS": 21258.9073125
+        },
+        {
+            "type": "noteOff",
+            "time": 35968,
+            "note": 41,
+            "velocity": 37,
+            "timeMS": 21409.502399999998
+        },
+        {
+            "type": "noteOn",
+            "time": 36000,
+            "note": 36,
+            "velocity": 111,
+            "timeMS": 21428.55
+        },
+        {
+            "type": "aftertouch",
+            "time": 36030,
+            "pressure": 0,
+            "timeMS": 21446.407124999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 36030,
+            "pressure": 83,
+            "timeMS": 21446.407124999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 36090,
+            "pressure": 83,
+            "timeMS": 21482.121375
+        },
+        {
+            "type": "aftertouch",
+            "time": 36090,
+            "pressure": 77,
+            "timeMS": 21482.121375
+        },
+        {
+            "type": "aftertouch",
+            "time": 36130,
+            "pressure": 77,
+            "timeMS": 21505.930875
+        },
+        {
+            "type": "aftertouch",
+            "time": 36130,
+            "pressure": 83,
+            "timeMS": 21505.930875
+        },
+        {
+            "type": "aftertouch",
+            "time": 36160,
+            "pressure": 83,
+            "timeMS": 21523.788
+        },
+        {
+            "type": "aftertouch",
+            "time": 36160,
+            "pressure": 1,
+            "timeMS": 21523.788
+        },
+        {
+            "type": "aftertouch",
+            "time": 36200,
+            "pressure": 1,
+            "timeMS": 21547.5975
+        },
+        {
+            "type": "aftertouch",
+            "time": 36200,
+            "pressure": 0,
+            "timeMS": 21547.5975
+        },
+        {
+            "type": "noteOn",
+            "time": 36240,
+            "note": 39,
+            "velocity": 114,
+            "timeMS": 21571.407
+        },
+        {
+            "type": "noteOff",
+            "time": 36318,
+            "note": 36,
+            "velocity": 48,
+            "timeMS": 21617.835525
+        },
+        {
+            "type": "noteOff",
+            "time": 36948,
+            "note": 39,
+            "velocity": 72,
+            "timeMS": 21992.83515
+        },
+        {
+            "type": "noteOn",
+            "time": 36960,
+            "note": 34,
+            "velocity": 111,
+            "timeMS": 21999.978
+        },
+        {
+            "type": "noteOff",
+            "time": 37633,
+            "note": 34,
+            "velocity": 75,
+            "timeMS": 22400.5728375
+        },
+        {
+            "type": "noteOn",
+            "time": 37680,
+            "note": 34,
+            "velocity": 103,
+            "timeMS": 22428.549
+        },
+        {
+            "type": "aftertouch",
+            "time": 37785,
+            "pressure": 0,
+            "timeMS": 22491.0489375
+        },
+        {
+            "type": "aftertouch",
+            "time": 37785,
+            "pressure": 7,
+            "timeMS": 22491.0489375
+        },
+        {
+            "type": "aftertouch",
+            "time": 37820,
+            "pressure": 7,
+            "timeMS": 22511.88225
+        },
+        {
+            "type": "aftertouch",
+            "time": 37820,
+            "pressure": 0,
+            "timeMS": 22511.88225
+        },
+        {
+            "type": "noteOn",
+            "time": 38880,
+            "note": 38,
+            "velocity": 114,
+            "timeMS": 23142.834
+        },
+        {
+            "type": "noteOff",
+            "time": 38978,
+            "note": 34,
+            "velocity": 74,
+            "timeMS": 23201.167275
+        },
+        {
+            "type": "aftertouch",
+            "time": 38990,
+            "pressure": 0,
+            "timeMS": 23208.310125
+        },
+        {
+            "type": "aftertouch",
+            "time": 38990,
+            "pressure": 83,
+            "timeMS": 23208.310125
+        },
+        {
+            "type": "aftertouch",
+            "time": 39060,
+            "pressure": 83,
+            "timeMS": 23249.976749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 39060,
+            "pressure": 82,
+            "timeMS": 23249.976749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 39095,
+            "pressure": 82,
+            "timeMS": 23270.8100625
+        },
+        {
+            "type": "aftertouch",
+            "time": 39095,
+            "pressure": 83,
+            "timeMS": 23270.8100625
+        },
+        {
+            "type": "aftertouch",
+            "time": 39130,
+            "pressure": 83,
+            "timeMS": 23291.643375
+        },
+        {
+            "type": "aftertouch",
+            "time": 39130,
+            "pressure": 50,
+            "timeMS": 23291.643375
+        },
+        {
+            "type": "aftertouch",
+            "time": 39165,
+            "pressure": 50,
+            "timeMS": 23312.4766875
+        },
+        {
+            "type": "aftertouch",
+            "time": 39165,
+            "pressure": 27,
+            "timeMS": 23312.4766875
+        },
+        {
+            "type": "aftertouch",
+            "time": 39200,
+            "pressure": 27,
+            "timeMS": 23333.309999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 39200,
+            "pressure": 0,
+            "timeMS": 23333.309999999998
+        },
+        {
+            "type": "noteOff",
+            "time": 39328,
+            "note": 38,
+            "velocity": 55,
+            "timeMS": 23409.5004
+        },
+        {
+            "type": "noteOn",
+            "time": 39360,
+            "note": 34,
+            "velocity": 107,
+            "timeMS": 23428.548
+        },
+        {
+            "type": "noteOn",
+            "time": 39600,
+            "note": 36,
+            "velocity": 116,
+            "timeMS": 23571.405
+        },
+        {
+            "type": "aftertouch",
+            "time": 39620,
+            "pressure": 0,
+            "timeMS": 23583.30975
+        },
+        {
+            "type": "aftertouch",
+            "time": 39620,
+            "pressure": 66,
+            "timeMS": 23583.30975
+        },
+        {
+            "type": "aftertouch",
+            "time": 39645,
+            "pressure": 66,
+            "timeMS": 23598.1906875
+        },
+        {
+            "type": "aftertouch",
+            "time": 39645,
+            "pressure": 83,
+            "timeMS": 23598.1906875
+        },
+        {
+            "type": "noteOff",
+            "time": 39768,
+            "note": 34,
+            "velocity": 46,
+            "timeMS": 23671.404899999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 39785,
+            "pressure": 83,
+            "timeMS": 23681.5239375
+        },
+        {
+            "type": "aftertouch",
+            "time": 39785,
+            "pressure": 81,
+            "timeMS": 23681.5239375
+        },
+        {
+            "type": "aftertouch",
+            "time": 39820,
+            "pressure": 81,
+            "timeMS": 23702.357249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 39820,
+            "pressure": 83,
+            "timeMS": 23702.357249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 40030,
+            "pressure": 83,
+            "timeMS": 23827.357125
+        },
+        {
+            "type": "aftertouch",
+            "time": 40030,
+            "pressure": 78,
+            "timeMS": 23827.357125
+        },
+        {
+            "type": "aftertouch",
+            "time": 40060,
+            "pressure": 78,
+            "timeMS": 23845.214249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 40060,
+            "pressure": 34,
+            "timeMS": 23845.214249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 40095,
+            "pressure": 34,
+            "timeMS": 23866.0475625
+        },
+        {
+            "type": "aftertouch",
+            "time": 40095,
+            "pressure": 5,
+            "timeMS": 23866.0475625
+        },
+        {
+            "type": "aftertouch",
+            "time": 40130,
+            "pressure": 5,
+            "timeMS": 23886.880875
+        },
+        {
+            "type": "aftertouch",
+            "time": 40130,
+            "pressure": 0,
+            "timeMS": 23886.880875
+        },
+        {
+            "type": "noteOff",
+            "time": 40218,
+            "note": 36,
+            "velocity": 74,
+            "timeMS": 23939.261775
+        },
+        {
+            "type": "noteOn",
+            "time": 40320,
+            "note": 34,
+            "velocity": 114,
+            "timeMS": 23999.976
+        },
+        {
+            "type": "noteOff",
+            "time": 40918,
+            "note": 34,
+            "velocity": 84,
+            "timeMS": 24355.928024999997
+        },
+        {
+            "type": "noteOn",
+            "time": 41040,
+            "note": 34,
+            "velocity": 86,
+            "timeMS": 24428.547
+        },
+        {
+            "type": "noteOn",
+            "time": 42240,
+            "note": 36,
+            "velocity": 114,
+            "timeMS": 25142.832
+        },
+        {
+            "type": "aftertouch",
+            "time": 42340,
+            "pressure": 0,
+            "timeMS": 25202.35575
+        },
+        {
+            "type": "aftertouch",
+            "time": 42340,
+            "pressure": 83,
+            "timeMS": 25202.35575
+        },
+        {
+            "type": "noteOff",
+            "time": 42428,
+            "note": 34,
+            "velocity": 73,
+            "timeMS": 25254.73665
+        },
+        {
+            "type": "aftertouch",
+            "time": 42470,
+            "pressure": 83,
+            "timeMS": 25279.736624999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 42470,
+            "pressure": 50,
+            "timeMS": 25279.736624999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 42515,
+            "pressure": 50,
+            "timeMS": 25306.522312499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 42515,
+            "pressure": 48,
+            "timeMS": 25306.522312499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 42540,
+            "pressure": 48,
+            "timeMS": 25321.40325
+        },
+        {
+            "type": "aftertouch",
+            "time": 42540,
+            "pressure": 1,
+            "timeMS": 25321.40325
+        },
+        {
+            "type": "aftertouch",
+            "time": 42575,
+            "pressure": 1,
+            "timeMS": 25342.2365625
+        },
+        {
+            "type": "aftertouch",
+            "time": 42575,
+            "pressure": 0,
+            "timeMS": 25342.2365625
+        },
+        {
+            "type": "noteOff",
+            "time": 42693,
+            "note": 36,
+            "velocity": 74,
+            "timeMS": 25412.474587499997
+        },
+        {
+            "type": "noteOn",
+            "time": 42720,
+            "note": 34,
+            "velocity": 111,
+            "timeMS": 25428.546
+        },
+        {
+            "type": "aftertouch",
+            "time": 42925,
+            "pressure": 0,
+            "timeMS": 25550.5696875
+        },
+        {
+            "type": "aftertouch",
+            "time": 42925,
+            "pressure": 83,
+            "timeMS": 25550.5696875
+        },
+        {
+            "type": "noteOn",
+            "time": 42960,
+            "note": 36,
+            "velocity": 103,
+            "timeMS": 25571.403
+        },
+        {
+            "type": "noteOff",
+            "time": 43088,
+            "note": 34,
+            "velocity": 70,
+            "timeMS": 25647.593399999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 43095,
+            "pressure": 83,
+            "timeMS": 25651.760062499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 43095,
+            "pressure": 79,
+            "timeMS": 25651.760062499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 43130,
+            "pressure": 79,
+            "timeMS": 25672.593375
+        },
+        {
+            "type": "aftertouch",
+            "time": 43130,
+            "pressure": 83,
+            "timeMS": 25672.593375
+        },
+        {
+            "type": "aftertouch",
+            "time": 43375,
+            "pressure": 83,
+            "timeMS": 25818.4265625
+        },
+        {
+            "type": "aftertouch",
+            "time": 43375,
+            "pressure": 72,
+            "timeMS": 25818.4265625
+        },
+        {
+            "type": "aftertouch",
+            "time": 43445,
+            "pressure": 72,
+            "timeMS": 25860.0931875
+        },
+        {
+            "type": "aftertouch",
+            "time": 43445,
+            "pressure": 0,
+            "timeMS": 25860.0931875
+        },
+        {
+            "type": "aftertouch",
+            "time": 43580,
+            "pressure": 0,
+            "timeMS": 25940.450249999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 43580,
+            "pressure": 83,
+            "timeMS": 25940.450249999998
+        },
+        {
+            "type": "noteOff",
+            "time": 43608,
+            "note": 36,
+            "velocity": 67,
+            "timeMS": 25957.116899999997
+        },
+        {
+            "type": "noteOn",
+            "time": 43680,
+            "note": 33,
+            "velocity": 116,
+            "timeMS": 25999.974
+        },
+        {
+            "type": "aftertouch",
+            "time": 44095,
+            "pressure": 83,
+            "timeMS": 26246.9975625
+        },
+        {
+            "type": "aftertouch",
+            "time": 44095,
+            "pressure": 66,
+            "timeMS": 26246.9975625
+        },
+        {
+            "type": "aftertouch",
+            "time": 44165,
+            "pressure": 66,
+            "timeMS": 26288.6641875
+        },
+        {
+            "type": "aftertouch",
+            "time": 44165,
+            "pressure": 2,
+            "timeMS": 26288.6641875
+        },
+        {
+            "type": "aftertouch",
+            "time": 44195,
+            "pressure": 2,
+            "timeMS": 26306.521312499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 44195,
+            "pressure": 0,
+            "timeMS": 26306.521312499997
+        },
+        {
+            "type": "noteOff",
+            "time": 44273,
+            "note": 33,
+            "velocity": 82,
+            "timeMS": 26352.9498375
+        },
+        {
+            "type": "noteOn",
+            "time": 44400,
+            "note": 33,
+            "velocity": 111,
+            "timeMS": 26428.545
+        },
+        {
+            "type": "aftertouch",
+            "time": 44410,
+            "pressure": 0,
+            "timeMS": 26434.497375
+        },
+        {
+            "type": "aftertouch",
+            "time": 44410,
+            "pressure": 83,
+            "timeMS": 26434.497375
+        },
+        {
+            "type": "noteOn",
+            "time": 45600,
+            "note": 36,
+            "velocity": 116,
+            "timeMS": 27142.829999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 45610,
+            "pressure": 83,
+            "timeMS": 27148.782375
+        },
+        {
+            "type": "aftertouch",
+            "time": 45610,
+            "pressure": 54,
+            "timeMS": 27148.782375
+        },
+        {
+            "type": "aftertouch",
+            "time": 45650,
+            "pressure": 54,
+            "timeMS": 27172.591875
+        },
+        {
+            "type": "aftertouch",
+            "time": 45650,
+            "pressure": 0,
+            "timeMS": 27172.591875
+        },
+        {
+            "type": "noteOff",
+            "time": 45713,
+            "note": 33,
+            "velocity": 80,
+            "timeMS": 27210.0918375
+        },
+        {
+            "type": "aftertouch",
+            "time": 45715,
+            "pressure": 0,
+            "timeMS": 27211.2823125
+        },
+        {
+            "type": "aftertouch",
+            "time": 45715,
+            "pressure": 83,
+            "timeMS": 27211.2823125
+        },
+        {
+            "type": "aftertouch",
+            "time": 45855,
+            "pressure": 83,
+            "timeMS": 27294.6155625
+        },
+        {
+            "type": "aftertouch",
+            "time": 45855,
+            "pressure": 64,
+            "timeMS": 27294.6155625
+        },
+        {
+            "type": "aftertouch",
+            "time": 45925,
+            "pressure": 64,
+            "timeMS": 27336.282187499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 45925,
+            "pressure": 0,
+            "timeMS": 27336.282187499997
+        },
+        {
+            "type": "noteOff",
+            "time": 46003,
+            "note": 36,
+            "velocity": 67,
+            "timeMS": 27382.7107125
+        },
+        {
+            "type": "noteOn",
+            "time": 46080,
+            "note": 33,
+            "velocity": 107,
+            "timeMS": 27428.543999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 46095,
+            "pressure": 0,
+            "timeMS": 27437.4725625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46095,
+            "pressure": 83,
+            "timeMS": 27437.4725625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46235,
+            "pressure": 83,
+            "timeMS": 27520.8058125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46235,
+            "pressure": 41,
+            "timeMS": 27520.8058125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46275,
+            "pressure": 41,
+            "timeMS": 27544.6153125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46275,
+            "pressure": 0,
+            "timeMS": 27544.6153125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46300,
+            "pressure": 0,
+            "timeMS": 27559.49625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46300,
+            "pressure": 83,
+            "timeMS": 27559.49625
+        },
+        {
+            "type": "noteOn",
+            "time": 46320,
+            "note": 36,
+            "velocity": 99,
+            "timeMS": 27571.400999999998
+        },
+        {
+            "type": "noteOff",
+            "time": 46383,
+            "note": 33,
+            "velocity": 48,
+            "timeMS": 27608.9009625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46445,
+            "pressure": 83,
+            "timeMS": 27645.8056875
+        },
+        {
+            "type": "aftertouch",
+            "time": 46445,
+            "pressure": 81,
+            "timeMS": 27645.8056875
+        },
+        {
+            "type": "aftertouch",
+            "time": 46475,
+            "pressure": 81,
+            "timeMS": 27663.6628125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46475,
+            "pressure": 83,
+            "timeMS": 27663.6628125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46515,
+            "pressure": 83,
+            "timeMS": 27687.4723125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46515,
+            "pressure": 56,
+            "timeMS": 27687.4723125
+        },
+        {
+            "type": "aftertouch",
+            "time": 46540,
+            "pressure": 56,
+            "timeMS": 27702.35325
+        },
+        {
+            "type": "aftertouch",
+            "time": 46540,
+            "pressure": 69,
+            "timeMS": 27702.35325
+        },
+        {
+            "type": "aftertouch",
+            "time": 46575,
+            "pressure": 69,
+            "timeMS": 27723.1865625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46575,
+            "pressure": 45,
+            "timeMS": 27723.1865625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46615,
+            "pressure": 45,
+            "timeMS": 27746.9960625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46615,
+            "pressure": 33,
+            "timeMS": 27746.9960625
+        },
+        {
+            "type": "aftertouch",
+            "time": 46645,
+            "pressure": 33,
+            "timeMS": 27764.853187499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 46645,
+            "pressure": 5,
+            "timeMS": 27764.853187499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 46680,
+            "pressure": 5,
+            "timeMS": 27785.6865
+        },
+        {
+            "type": "aftertouch",
+            "time": 46680,
+            "pressure": 0,
+            "timeMS": 27785.6865
+        },
+        {
+            "type": "aftertouch",
+            "time": 46990,
+            "pressure": 0,
+            "timeMS": 27970.210124999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 46990,
+            "pressure": 56,
+            "timeMS": 27970.210124999998
+        },
+        {
+            "type": "noteOff",
+            "time": 46998,
+            "note": 36,
+            "velocity": 70,
+            "timeMS": 27974.972025
+        },
+        {
+            "type": "aftertouch",
+            "time": 47030,
+            "pressure": 56,
+            "timeMS": 27994.019624999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 47030,
+            "pressure": 83,
+            "timeMS": 27994.019624999997
+        },
+        {
+            "type": "noteOn",
+            "time": 47040,
+            "note": 33,
+            "velocity": 103,
+            "timeMS": 27999.971999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 47375,
+            "pressure": 83,
+            "timeMS": 28199.376562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 47375,
+            "pressure": 21,
+            "timeMS": 28199.376562499998
+        },
+        {
+            "type": "noteOff",
+            "time": 47523,
+            "note": 33,
+            "velocity": 75,
+            "timeMS": 28287.4717125
+        },
+        {
+            "type": "noteOn",
+            "time": 47640,
+            "note": 33,
+            "velocity": 99,
+            "timeMS": 28357.1145
+        },
+        {
+            "type": "aftertouch",
+            "time": 47680,
+            "pressure": 21,
+            "timeMS": 28380.924
+        },
+        {
+            "type": "aftertouch",
+            "time": 47680,
+            "pressure": 83,
+            "timeMS": 28380.924
+        },
+        {
+            "type": "aftertouch",
+            "time": 48230,
+            "pressure": 83,
+            "timeMS": 28708.304624999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 48230,
+            "pressure": 75,
+            "timeMS": 28708.304624999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 48265,
+            "pressure": 75,
+            "timeMS": 28729.1379375
+        },
+        {
+            "type": "aftertouch",
+            "time": 48265,
+            "pressure": 73,
+            "timeMS": 28729.1379375
+        },
+        {
+            "type": "aftertouch",
+            "time": 48300,
+            "pressure": 73,
+            "timeMS": 28749.97125
+        },
+        {
+            "type": "aftertouch",
+            "time": 48300,
+            "pressure": 63,
+            "timeMS": 28749.97125
+        },
+        {
+            "type": "aftertouch",
+            "time": 48335,
+            "pressure": 63,
+            "timeMS": 28770.804562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 48335,
+            "pressure": 52,
+            "timeMS": 28770.804562499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 48370,
+            "pressure": 52,
+            "timeMS": 28791.637875
+        },
+        {
+            "type": "aftertouch",
+            "time": 48370,
+            "pressure": 12,
+            "timeMS": 28791.637875
+        },
+        {
+            "type": "aftertouch",
+            "time": 48405,
+            "pressure": 12,
+            "timeMS": 28812.4711875
+        },
+        {
+            "type": "aftertouch",
+            "time": 48405,
+            "pressure": 0,
+            "timeMS": 28812.4711875
+        },
+        {
+            "type": "aftertouch",
+            "time": 48995,
+            "pressure": 0,
+            "timeMS": 29163.6613125
+        },
+        {
+            "type": "aftertouch",
+            "time": 48995,
+            "pressure": 23,
+            "timeMS": 29163.6613125
+        },
+        {
+            "type": "aftertouch",
+            "time": 49025,
+            "pressure": 23,
+            "timeMS": 29181.5184375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49025,
+            "pressure": 49,
+            "timeMS": 29181.5184375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49060,
+            "pressure": 49,
+            "timeMS": 29202.351749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 49060,
+            "pressure": 83,
+            "timeMS": 29202.351749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 49130,
+            "pressure": 83,
+            "timeMS": 29244.018375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49130,
+            "pressure": 81,
+            "timeMS": 29244.018375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49165,
+            "pressure": 81,
+            "timeMS": 29264.8516875
+        },
+        {
+            "type": "aftertouch",
+            "time": 49165,
+            "pressure": 54,
+            "timeMS": 29264.8516875
+        },
+        {
+            "type": "aftertouch",
+            "time": 49195,
+            "pressure": 54,
+            "timeMS": 29282.708812499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 49195,
+            "pressure": 45,
+            "timeMS": 29282.708812499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 49235,
+            "pressure": 45,
+            "timeMS": 29306.5183125
+        },
+        {
+            "type": "aftertouch",
+            "time": 49235,
+            "pressure": 27,
+            "timeMS": 29306.5183125
+        },
+        {
+            "type": "aftertouch",
+            "time": 49265,
+            "pressure": 27,
+            "timeMS": 29324.3754375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49265,
+            "pressure": 22,
+            "timeMS": 29324.3754375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49300,
+            "pressure": 22,
+            "timeMS": 29345.208749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 49300,
+            "pressure": 21,
+            "timeMS": 29345.208749999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 49340,
+            "pressure": 21,
+            "timeMS": 29369.018249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 49340,
+            "pressure": 25,
+            "timeMS": 29369.018249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 49370,
+            "pressure": 25,
+            "timeMS": 29386.875375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49370,
+            "pressure": 30,
+            "timeMS": 29386.875375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49440,
+            "pressure": 30,
+            "timeMS": 29428.541999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 49440,
+            "pressure": 27,
+            "timeMS": 29428.541999999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 49475,
+            "pressure": 27,
+            "timeMS": 29449.3753125
+        },
+        {
+            "type": "aftertouch",
+            "time": 49475,
+            "pressure": 14,
+            "timeMS": 29449.3753125
+        },
+        {
+            "type": "aftertouch",
+            "time": 49510,
+            "pressure": 14,
+            "timeMS": 29470.208625
+        },
+        {
+            "type": "aftertouch",
+            "time": 49510,
+            "pressure": 11,
+            "timeMS": 29470.208625
+        },
+        {
+            "type": "aftertouch",
+            "time": 49545,
+            "pressure": 11,
+            "timeMS": 29491.0419375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49545,
+            "pressure": 8,
+            "timeMS": 29491.0419375
+        },
+        {
+            "type": "aftertouch",
+            "time": 49580,
+            "pressure": 8,
+            "timeMS": 29511.875249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 49580,
+            "pressure": 1,
+            "timeMS": 29511.875249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 49615,
+            "pressure": 1,
+            "timeMS": 29532.7085625
+        },
+        {
+            "type": "aftertouch",
+            "time": 49615,
+            "pressure": 0,
+            "timeMS": 29532.7085625
+        },
+        {
+            "type": "noteOn",
+            "time": 49920,
+            "note": 34,
+            "velocity": 91,
+            "timeMS": 29714.255999999998
+        },
+        {
+            "type": "noteOff",
+            "time": 49958,
+            "note": 33,
+            "velocity": 25,
+            "timeMS": 29736.875024999998
+        },
+        {
+            "type": "noteOn",
+            "time": 50160,
+            "note": 36,
+            "velocity": 93,
+            "timeMS": 29857.112999999998
+        },
+        {
+            "type": "noteOff",
+            "time": 50168,
+            "note": 34,
+            "velocity": 79,
+            "timeMS": 29861.8749
+        },
+        {
+            "type": "aftertouch",
+            "time": 50200,
+            "pressure": 0,
+            "timeMS": 29880.922499999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 50200,
+            "pressure": 28,
+            "timeMS": 29880.922499999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 50230,
+            "pressure": 28,
+            "timeMS": 29898.779625
+        },
+        {
+            "type": "aftertouch",
+            "time": 50230,
+            "pressure": 66,
+            "timeMS": 29898.779625
+        },
+        {
+            "type": "aftertouch",
+            "time": 50270,
+            "pressure": 66,
+            "timeMS": 29922.589125
+        },
+        {
+            "type": "aftertouch",
+            "time": 50270,
+            "pressure": 30,
+            "timeMS": 29922.589125
+        },
+        {
+            "type": "aftertouch",
+            "time": 50300,
+            "pressure": 30,
+            "timeMS": 29940.446249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 50300,
+            "pressure": 12,
+            "timeMS": 29940.446249999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 50340,
+            "pressure": 12,
+            "timeMS": 29964.25575
+        },
+        {
+            "type": "aftertouch",
+            "time": 50340,
+            "pressure": 0,
+            "timeMS": 29964.25575
+        },
+        {
+            "type": "noteOn",
+            "time": 50400,
+            "note": 32,
+            "velocity": 111,
+            "timeMS": 29999.969999999998
+        },
+        {
+            "type": "noteOff",
+            "time": 50433,
+            "note": 36,
+            "velocity": 85,
+            "timeMS": 30019.612837499997
+        },
+        {
+            "type": "noteOn",
+            "time": 53520,
+            "note": 38,
+            "velocity": 107,
+            "timeMS": 31857.110999999997
+        },
+        {
+            "type": "aftertouch",
+            "time": 53545,
+            "pressure": 0,
+            "timeMS": 31871.9919375
+        },
+        {
+            "type": "aftertouch",
+            "time": 53545,
+            "pressure": 15,
+            "timeMS": 31871.9919375
+        },
+        {
+            "type": "noteOff",
+            "time": 53568,
+            "note": 32,
+            "velocity": 84,
+            "timeMS": 31885.682399999998
+        },
+        {
+            "type": "aftertouch",
+            "time": 53575,
+            "pressure": 15,
+            "timeMS": 31889.849062499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 53575,
+            "pressure": 0,
+            "timeMS": 31889.849062499998
+        },
+        {
+            "type": "aftertouch",
+            "time": 53615,
+            "pressure": 0,
+            "timeMS": 31913.658562499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 53615,
+            "pressure": 7,
+            "timeMS": 31913.658562499997
+        },
+        {
+            "type": "aftertouch",
+            "time": 53645,
+            "pressure": 7,
+            "timeMS": 31931.5156875
+        },
+        {
+            "type": "aftertouch",
+            "time": 53645,
+            "pressure": 0,
+            "timeMS": 31931.5156875
+        },
+        {
+            "type": "noteOff",
+            "time": 53753,
+            "note": 38,
+            "velocity": 45,
+            "timeMS": 31995.801337499997
+        },
+        {
+            "type": "noteOn",
+            "time": 53760,
+            "note": 39,
+            "velocity": 116,
+            "timeMS": 31999.967999999997
+        },
+        {
+            "type": "noteOn",
+            "time": 55680,
+            "note": 41,
+            "velocity": 103,
+            "timeMS": 33142.824
+        },
+        {
+            "type": "noteOff",
+            "time": 55723,
+            "note": 39,
+            "velocity": 1,
+            "timeMS": 33168.4192125
+        },
+        {
+            "type": "aftertouch",
+            "time": 56370,
+            "pressure": 0,
+            "timeMS": 33553.537875
+        },
+        {
+            "type": "aftertouch",
+            "time": 56370,
+            "pressure": 83,
+            "timeMS": 33553.537875
+        },
+        {
+            "type": "noteOff",
+            "time": 56393,
+            "note": 41,
+            "velocity": 10,
+            "timeMS": 33567.2283375
+        },
+        {
+            "type": "noteOn",
+            "time": 56400,
+            "note": 43,
+            "velocity": 107,
+            "timeMS": 33571.395
+        },
+        {
+            "type": "aftertouch",
+            "time": 56410,
+            "pressure": 83,
+            "timeMS": 33577.347375
+        },
+        {
+            "type": "aftertouch",
+            "time": 56410,
+            "pressure": 0,
+            "timeMS": 33577.347375
+        },
+        {
+            "type": "aftertouch",
+            "time": 56440,
+            "pressure": 0,
+            "timeMS": 33595.2045
+        },
+        {
+            "type": "aftertouch",
+            "time": 56440,
+            "pressure": 71,
+            "timeMS": 33595.2045
+        },
+        {
+            "type": "aftertouch",
+            "time": 56475,
+            "pressure": 71,
+            "timeMS": 33616.0378125
+        },
+        {
+            "type": "aftertouch",
+            "time": 56475,
+            "pressure": 64,
+            "timeMS": 33616.0378125
+        },
+        {
+            "type": "aftertouch",
+            "time": 56510,
+            "pressure": 64,
+            "timeMS": 33636.871125
+        },
+        {
+            "type": "aftertouch",
+            "time": 56510,
+            "pressure": 47,
+            "timeMS": 33636.871125
+        },
+        {
+            "type": "aftertouch",
+            "time": 56540,
+            "pressure": 47,
+            "timeMS": 33654.72825
+        },
+        {
+            "type": "aftertouch",
+            "time": 56540,
+            "pressure": 43,
+            "timeMS": 33654.72825
+        },
+        {
+            "type": "aftertouch",
+            "time": 56580,
+            "pressure": 43,
+            "timeMS": 33678.537749999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 56580,
+            "pressure": 34,
+            "timeMS": 33678.537749999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 56610,
+            "pressure": 34,
+            "timeMS": 33696.394875
+        },
+        {
+            "type": "aftertouch",
+            "time": 56610,
+            "pressure": 31,
+            "timeMS": 33696.394875
+        },
+        {
+            "type": "aftertouch",
+            "time": 56650,
+            "pressure": 31,
+            "timeMS": 33720.204375
+        },
+        {
+            "type": "aftertouch",
+            "time": 56650,
+            "pressure": 25,
+            "timeMS": 33720.204375
+        },
+        {
+            "type": "aftertouch",
+            "time": 56680,
+            "pressure": 25,
+            "timeMS": 33738.061499999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 56680,
+            "pressure": 8,
+            "timeMS": 33738.061499999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 56715,
+            "pressure": 8,
+            "timeMS": 33758.894812499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 56715,
+            "pressure": 0,
+            "timeMS": 33758.894812499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 56990,
+            "pressure": 0,
+            "timeMS": 33922.585125
+        },
+        {
+            "type": "aftertouch",
+            "time": 56990,
+            "pressure": 7,
+            "timeMS": 33922.585125
+        },
+        {
+            "type": "aftertouch",
+            "time": 57025,
+            "pressure": 7,
+            "timeMS": 33943.4184375
+        },
+        {
+            "type": "aftertouch",
+            "time": 57025,
+            "pressure": 0,
+            "timeMS": 33943.4184375
+        },
+        {
+            "type": "noteOff",
+            "time": 57118,
+            "note": 43,
+            "velocity": 95,
+            "timeMS": 33998.775525
+        },
+        {
+            "type": "noteOn",
+            "time": 57600,
+            "note": 72,
+            "velocity": 99,
+            "timeMS": 34285.68
+        },
+        {
+            "type": "aftertouch",
+            "time": 57640,
+            "pressure": 0,
+            "timeMS": 34309.489499999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 57640,
+            "pressure": 75,
+            "timeMS": 34309.489499999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 57675,
+            "pressure": 75,
+            "timeMS": 34330.322812499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 57675,
+            "pressure": 49,
+            "timeMS": 34330.322812499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 57705,
+            "pressure": 49,
+            "timeMS": 34348.1799375
+        },
+        {
+            "type": "aftertouch",
+            "time": 57705,
+            "pressure": 61,
+            "timeMS": 34348.1799375
+        },
+        {
+            "type": "aftertouch",
+            "time": 57740,
+            "pressure": 61,
+            "timeMS": 34369.013249999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 57740,
+            "pressure": 13,
+            "timeMS": 34369.013249999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 57775,
+            "pressure": 13,
+            "timeMS": 34389.846562499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 57775,
+            "pressure": 0,
+            "timeMS": 34389.846562499995
+        },
+        {
+            "type": "noteOn",
+            "time": 58080,
+            "note": 84,
+            "velocity": 107,
+            "timeMS": 34571.394
+        },
+        {
+            "type": "aftertouch",
+            "time": 58145,
+            "pressure": 0,
+            "timeMS": 34610.0844375
+        },
+        {
+            "type": "aftertouch",
+            "time": 58145,
+            "pressure": 127,
+            "timeMS": 34610.0844375
+        },
+        {
+            "type": "noteOff",
+            "time": 58163,
+            "note": 72,
+            "velocity": 88,
+            "timeMS": 34620.7987125
+        },
+        {
+            "type": "aftertouch",
+            "time": 58345,
+            "pressure": 127,
+            "timeMS": 34729.1319375
+        },
+        {
+            "type": "aftertouch",
+            "time": 58345,
+            "pressure": 118,
+            "timeMS": 34729.1319375
+        },
+        {
+            "type": "aftertouch",
+            "time": 58380,
+            "pressure": 118,
+            "timeMS": 34749.96525
+        },
+        {
+            "type": "aftertouch",
+            "time": 58380,
+            "pressure": 111,
+            "timeMS": 34749.96525
+        },
+        {
+            "type": "aftertouch",
+            "time": 58410,
+            "pressure": 111,
+            "timeMS": 34767.822374999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 58410,
+            "pressure": 103,
+            "timeMS": 34767.822374999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 58445,
+            "pressure": 103,
+            "timeMS": 34788.655687499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 58445,
+            "pressure": 85,
+            "timeMS": 34788.655687499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 58475,
+            "pressure": 85,
+            "timeMS": 34806.5128125
+        },
+        {
+            "type": "aftertouch",
+            "time": 58475,
+            "pressure": 16,
+            "timeMS": 34806.5128125
+        },
+        {
+            "type": "aftertouch",
+            "time": 58515,
+            "pressure": 16,
+            "timeMS": 34830.3223125
+        },
+        {
+            "type": "aftertouch",
+            "time": 58515,
+            "pressure": 0,
+            "timeMS": 34830.3223125
+        },
+        {
+            "type": "aftertouch",
+            "time": 59020,
+            "pressure": 0,
+            "timeMS": 35130.91725
+        },
+        {
+            "type": "aftertouch",
+            "time": 59020,
+            "pressure": 71,
+            "timeMS": 35130.91725
+        },
+        {
+            "type": "noteOn",
+            "time": 59040,
+            "note": 79,
+            "velocity": 111,
+            "timeMS": 35142.822
+        },
+        {
+            "type": "noteOff",
+            "time": 59043,
+            "note": 84,
+            "velocity": 84,
+            "timeMS": 35144.6077125
+        },
+        {
+            "type": "aftertouch",
+            "time": 59050,
+            "pressure": 71,
+            "timeMS": 35148.774375
+        },
+        {
+            "type": "aftertouch",
+            "time": 59050,
+            "pressure": 127,
+            "timeMS": 35148.774375
+        },
+        {
+            "type": "aftertouch",
+            "time": 59325,
+            "pressure": 127,
+            "timeMS": 35312.464687499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 59325,
+            "pressure": 124,
+            "timeMS": 35312.464687499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 59355,
+            "pressure": 124,
+            "timeMS": 35330.3218125
+        },
+        {
+            "type": "aftertouch",
+            "time": 59355,
+            "pressure": 101,
+            "timeMS": 35330.3218125
+        },
+        {
+            "type": "aftertouch",
+            "time": 59390,
+            "pressure": 101,
+            "timeMS": 35351.155125
+        },
+        {
+            "type": "aftertouch",
+            "time": 59390,
+            "pressure": 89,
+            "timeMS": 35351.155125
+        },
+        {
+            "type": "aftertouch",
+            "time": 59420,
+            "pressure": 89,
+            "timeMS": 35369.01225
+        },
+        {
+            "type": "aftertouch",
+            "time": 59420,
+            "pressure": 75,
+            "timeMS": 35369.01225
+        },
+        {
+            "type": "aftertouch",
+            "time": 59455,
+            "pressure": 75,
+            "timeMS": 35389.8455625
+        },
+        {
+            "type": "aftertouch",
+            "time": 59455,
+            "pressure": 63,
+            "timeMS": 35389.8455625
+        },
+        {
+            "type": "aftertouch",
+            "time": 59495,
+            "pressure": 63,
+            "timeMS": 35413.6550625
+        },
+        {
+            "type": "aftertouch",
+            "time": 59495,
+            "pressure": 24,
+            "timeMS": 35413.6550625
+        },
+        {
+            "type": "aftertouch",
+            "time": 59520,
+            "pressure": 24,
+            "timeMS": 35428.536
+        },
+        {
+            "type": "aftertouch",
+            "time": 59520,
+            "pressure": 0,
+            "timeMS": 35428.536
+        },
+        {
+            "type": "noteOff",
+            "time": 59898,
+            "note": 79,
+            "velocity": 87,
+            "timeMS": 35653.535775
+        },
+        {
+            "type": "noteOn",
+            "time": 60000,
+            "note": 79,
+            "velocity": 76,
+            "timeMS": 35714.25
+        },
+        {
+            "type": "aftertouch",
+            "time": 60030,
+            "pressure": 0,
+            "timeMS": 35732.107124999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 60030,
+            "pressure": 127,
+            "timeMS": 35732.107124999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 60095,
+            "pressure": 127,
+            "timeMS": 35770.797562499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 60095,
+            "pressure": 82,
+            "timeMS": 35770.797562499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 60130,
+            "pressure": 82,
+            "timeMS": 35791.630874999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 60130,
+            "pressure": 8,
+            "timeMS": 35791.630874999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 60165,
+            "pressure": 8,
+            "timeMS": 35812.4641875
+        },
+        {
+            "type": "aftertouch",
+            "time": 60165,
+            "pressure": 0,
+            "timeMS": 35812.4641875
+        },
+        {
+            "type": "noteOn",
+            "time": 60240,
+            "note": 77,
+            "velocity": 107,
+            "timeMS": 35857.106999999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 60300,
+            "pressure": 0,
+            "timeMS": 35892.82125
+        },
+        {
+            "type": "aftertouch",
+            "time": 60300,
+            "pressure": 127,
+            "timeMS": 35892.82125
+        },
+        {
+            "type": "noteOff",
+            "time": 60318,
+            "note": 79,
+            "velocity": 88,
+            "timeMS": 35903.535525
+        },
+        {
+            "type": "aftertouch",
+            "time": 60335,
+            "pressure": 127,
+            "timeMS": 35913.6545625
+        },
+        {
+            "type": "aftertouch",
+            "time": 60335,
+            "pressure": 18,
+            "timeMS": 35913.6545625
+        },
+        {
+            "type": "aftertouch",
+            "time": 60365,
+            "pressure": 18,
+            "timeMS": 35931.511687499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 60365,
+            "pressure": 93,
+            "timeMS": 35931.511687499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 60400,
+            "pressure": 93,
+            "timeMS": 35952.345
+        },
+        {
+            "type": "aftertouch",
+            "time": 60400,
+            "pressure": 22,
+            "timeMS": 35952.345
+        },
+        {
+            "type": "aftertouch",
+            "time": 60435,
+            "pressure": 22,
+            "timeMS": 35973.1783125
+        },
+        {
+            "type": "aftertouch",
+            "time": 60435,
+            "pressure": 0,
+            "timeMS": 35973.1783125
+        },
+        {
+            "type": "noteOn",
+            "time": 60480,
+            "note": 79,
+            "velocity": 95,
+            "timeMS": 35999.964
+        },
+        {
+            "type": "noteOff",
+            "time": 60498,
+            "note": 77,
+            "velocity": 31,
+            "timeMS": 36010.678275
+        },
+        {
+            "type": "aftertouch",
+            "time": 60500,
+            "pressure": 0,
+            "timeMS": 36011.86875
+        },
+        {
+            "type": "aftertouch",
+            "time": 60500,
+            "pressure": 127,
+            "timeMS": 36011.86875
+        },
+        {
+            "type": "aftertouch",
+            "time": 61110,
+            "pressure": 127,
+            "timeMS": 36374.963625
+        },
+        {
+            "type": "aftertouch",
+            "time": 61110,
+            "pressure": 124,
+            "timeMS": 36374.963625
+        },
+        {
+            "type": "aftertouch",
+            "time": 61140,
+            "pressure": 124,
+            "timeMS": 36392.82075
+        },
+        {
+            "type": "aftertouch",
+            "time": 61140,
+            "pressure": 111,
+            "timeMS": 36392.82075
+        },
+        {
+            "type": "aftertouch",
+            "time": 61175,
+            "pressure": 111,
+            "timeMS": 36413.6540625
+        },
+        {
+            "type": "aftertouch",
+            "time": 61175,
+            "pressure": 127,
+            "timeMS": 36413.6540625
+        },
+        {
+            "type": "aftertouch",
+            "time": 61240,
+            "pressure": 127,
+            "timeMS": 36452.3445
+        },
+        {
+            "type": "aftertouch",
+            "time": 61240,
+            "pressure": 98,
+            "timeMS": 36452.3445
+        },
+        {
+            "type": "aftertouch",
+            "time": 61280,
+            "pressure": 98,
+            "timeMS": 36476.153999999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 61280,
+            "pressure": 91,
+            "timeMS": 36476.153999999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 61305,
+            "pressure": 91,
+            "timeMS": 36491.0349375
+        },
+        {
+            "type": "aftertouch",
+            "time": 61305,
+            "pressure": 84,
+            "timeMS": 36491.0349375
+        },
+        {
+            "type": "aftertouch",
+            "time": 61345,
+            "pressure": 84,
+            "timeMS": 36514.844437499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 61345,
+            "pressure": 92,
+            "timeMS": 36514.844437499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 61380,
+            "pressure": 92,
+            "timeMS": 36535.677749999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 61380,
+            "pressure": 124,
+            "timeMS": 36535.677749999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 61410,
+            "pressure": 124,
+            "timeMS": 36553.534875
+        },
+        {
+            "type": "aftertouch",
+            "time": 61410,
+            "pressure": 127,
+            "timeMS": 36553.534875
+        },
+        {
+            "type": "aftertouch",
+            "time": 61780,
+            "pressure": 127,
+            "timeMS": 36773.77275
+        },
+        {
+            "type": "aftertouch",
+            "time": 61780,
+            "pressure": 126,
+            "timeMS": 36773.77275
+        },
+        {
+            "type": "aftertouch",
+            "time": 61815,
+            "pressure": 126,
+            "timeMS": 36794.606062499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 61815,
+            "pressure": 115,
+            "timeMS": 36794.606062499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 61850,
+            "pressure": 115,
+            "timeMS": 36815.439375
+        },
+        {
+            "type": "aftertouch",
+            "time": 61850,
+            "pressure": 87,
+            "timeMS": 36815.439375
+        },
+        {
+            "type": "aftertouch",
+            "time": 61880,
+            "pressure": 87,
+            "timeMS": 36833.2965
+        },
+        {
+            "type": "aftertouch",
+            "time": 61880,
+            "pressure": 85,
+            "timeMS": 36833.2965
+        },
+        {
+            "type": "aftertouch",
+            "time": 61950,
+            "pressure": 85,
+            "timeMS": 36874.963125
+        },
+        {
+            "type": "aftertouch",
+            "time": 61950,
+            "pressure": 80,
+            "timeMS": 36874.963125
+        },
+        {
+            "type": "aftertouch",
+            "time": 61980,
+            "pressure": 80,
+            "timeMS": 36892.82025
+        },
+        {
+            "type": "aftertouch",
+            "time": 61980,
+            "pressure": 66,
+            "timeMS": 36892.82025
+        },
+        {
+            "type": "noteOff",
+            "time": 63073,
+            "note": 79,
+            "velocity": 81,
+            "timeMS": 37543.4148375
+        },
+        {
+            "type": "noteOn",
+            "time": 63360,
+            "note": 77,
+            "velocity": 95,
+            "timeMS": 37714.248
+        },
+        {
+            "type": "aftertouch",
+            "time": 63395,
+            "pressure": 66,
+            "timeMS": 37735.0813125
+        },
+        {
+            "type": "aftertouch",
+            "time": 63395,
+            "pressure": 14,
+            "timeMS": 37735.0813125
+        },
+        {
+            "type": "aftertouch",
+            "time": 63430,
+            "pressure": 14,
+            "timeMS": 37755.914625
+        },
+        {
+            "type": "aftertouch",
+            "time": 63430,
+            "pressure": 126,
+            "timeMS": 37755.914625
+        },
+        {
+            "type": "aftertouch",
+            "time": 63460,
+            "pressure": 126,
+            "timeMS": 37773.77175
+        },
+        {
+            "type": "aftertouch",
+            "time": 63460,
+            "pressure": 13,
+            "timeMS": 37773.77175
+        },
+        {
+            "type": "noteOn",
+            "time": 63480,
+            "note": 79,
+            "velocity": 84,
+            "timeMS": 37785.6765
+        },
+        {
+            "type": "aftertouch",
+            "time": 63495,
+            "pressure": 13,
+            "timeMS": 37794.6050625
+        },
+        {
+            "type": "aftertouch",
+            "time": 63495,
+            "pressure": 0,
+            "timeMS": 37794.6050625
+        },
+        {
+            "type": "noteOff",
+            "time": 63598,
+            "note": 77,
+            "velocity": 80,
+            "timeMS": 37855.914525
+        },
+        {
+            "type": "noteOn",
+            "time": 63600,
+            "note": 81,
+            "velocity": 63,
+            "timeMS": 37857.104999999996
+        },
+        {
+            "type": "noteOn",
+            "time": 63600,
+            "note": 82,
+            "velocity": 111,
+            "timeMS": 37857.104999999996
+        },
+        {
+            "type": "noteOff",
+            "time": 63663,
+            "note": 79,
+            "velocity": 94,
+            "timeMS": 37894.6049625
+        },
+        {
+            "type": "noteOff",
+            "time": 63708,
+            "note": 81,
+            "velocity": 91,
+            "timeMS": 37921.39065
+        },
+        {
+            "type": "noteOff",
+            "time": 63818,
+            "note": 82,
+            "velocity": 91,
+            "timeMS": 37986.866774999995
+        },
+        {
+            "type": "noteOn",
+            "time": 63840,
+            "note": 79,
+            "velocity": 72,
+            "timeMS": 37999.962
+        },
+        {
+            "type": "aftertouch",
+            "time": 63865,
+            "pressure": 0,
+            "timeMS": 38014.8429375
+        },
+        {
+            "type": "aftertouch",
+            "time": 63865,
+            "pressure": 127,
+            "timeMS": 38014.8429375
+        },
+        {
+            "type": "aftertouch",
+            "time": 64170,
+            "pressure": 127,
+            "timeMS": 38196.390374999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 64170,
+            "pressure": 114,
+            "timeMS": 38196.390374999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 64205,
+            "pressure": 114,
+            "timeMS": 38217.2236875
+        },
+        {
+            "type": "aftertouch",
+            "time": 64205,
+            "pressure": 82,
+            "timeMS": 38217.2236875
+        },
+        {
+            "type": "aftertouch",
+            "time": 64235,
+            "pressure": 82,
+            "timeMS": 38235.0808125
+        },
+        {
+            "type": "aftertouch",
+            "time": 64235,
+            "pressure": 16,
+            "timeMS": 38235.0808125
+        },
+        {
+            "type": "aftertouch",
+            "time": 64270,
+            "pressure": 16,
+            "timeMS": 38255.914124999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 64270,
+            "pressure": 18,
+            "timeMS": 38255.914124999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 64305,
+            "pressure": 18,
+            "timeMS": 38276.7474375
+        },
+        {
+            "type": "aftertouch",
+            "time": 64305,
+            "pressure": 31,
+            "timeMS": 38276.7474375
+        },
+        {
+            "type": "aftertouch",
+            "time": 64340,
+            "pressure": 31,
+            "timeMS": 38297.58075
+        },
+        {
+            "type": "aftertouch",
+            "time": 64340,
+            "pressure": 14,
+            "timeMS": 38297.58075
+        },
+        {
+            "type": "aftertouch",
+            "time": 64375,
+            "pressure": 14,
+            "timeMS": 38318.4140625
+        },
+        {
+            "type": "aftertouch",
+            "time": 64375,
+            "pressure": 27,
+            "timeMS": 38318.4140625
+        },
+        {
+            "type": "aftertouch",
+            "time": 64405,
+            "pressure": 27,
+            "timeMS": 38336.271187499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 64405,
+            "pressure": 20,
+            "timeMS": 38336.271187499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 64440,
+            "pressure": 20,
+            "timeMS": 38357.1045
+        },
+        {
+            "type": "aftertouch",
+            "time": 64440,
+            "pressure": 0,
+            "timeMS": 38357.1045
+        },
+        {
+            "type": "noteOn",
+            "time": 66720,
+            "note": 77,
+            "velocity": 93,
+            "timeMS": 39714.246
+        },
+        {
+            "type": "aftertouch",
+            "time": 66730,
+            "pressure": 0,
+            "timeMS": 39720.198375
+        },
+        {
+            "type": "aftertouch",
+            "time": 66730,
+            "pressure": 27,
+            "timeMS": 39720.198375
+        },
+        {
+            "type": "aftertouch",
+            "time": 66760,
+            "pressure": 27,
+            "timeMS": 39738.055499999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 66760,
+            "pressure": 0,
+            "timeMS": 39738.055499999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 66795,
+            "pressure": 0,
+            "timeMS": 39758.8888125
+        },
+        {
+            "type": "aftertouch",
+            "time": 66795,
+            "pressure": 64,
+            "timeMS": 39758.8888125
+        },
+        {
+            "type": "aftertouch",
+            "time": 66830,
+            "pressure": 64,
+            "timeMS": 39779.722125
+        },
+        {
+            "type": "aftertouch",
+            "time": 66830,
+            "pressure": 16,
+            "timeMS": 39779.722125
+        },
+        {
+            "type": "aftertouch",
+            "time": 66860,
+            "pressure": 16,
+            "timeMS": 39797.579249999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 66860,
+            "pressure": 0,
+            "timeMS": 39797.579249999995
+        },
+        {
+            "type": "noteOn",
+            "time": 66960,
+            "note": 75,
+            "velocity": 86,
+            "timeMS": 39857.102999999996
+        },
+        {
+            "type": "noteOff",
+            "time": 67033,
+            "note": 77,
+            "velocity": 58,
+            "timeMS": 39900.5553375
+        },
+        {
+            "type": "noteOff",
+            "time": 67068,
+            "note": 79,
+            "velocity": 35,
+            "timeMS": 39921.38865
+        },
+        {
+            "type": "noteOff",
+            "time": 67148,
+            "note": 75,
+            "velocity": 94,
+            "timeMS": 39969.00765
+        },
+        {
+            "type": "noteOn",
+            "time": 67200,
+            "note": 75,
+            "velocity": 89,
+            "timeMS": 39999.96
+        },
+        {
+            "type": "noteOn",
+            "time": 68040,
+            "note": 74,
+            "velocity": 107,
+            "timeMS": 40499.9595
+        },
+        {
+            "type": "aftertouch",
+            "time": 68075,
+            "pressure": 0,
+            "timeMS": 40520.792812499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 68075,
+            "pressure": 85,
+            "timeMS": 40520.792812499996
+        },
+        {
+            "type": "noteOff",
+            "time": 68083,
+            "note": 75,
+            "velocity": 94,
+            "timeMS": 40525.5547125
+        },
+        {
+            "type": "aftertouch",
+            "time": 68110,
+            "pressure": 85,
+            "timeMS": 40541.626124999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 68110,
+            "pressure": 127,
+            "timeMS": 40541.626124999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 68275,
+            "pressure": 127,
+            "timeMS": 40639.8403125
+        },
+        {
+            "type": "aftertouch",
+            "time": 68275,
+            "pressure": 124,
+            "timeMS": 40639.8403125
+        },
+        {
+            "type": "aftertouch",
+            "time": 68310,
+            "pressure": 124,
+            "timeMS": 40660.673624999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 68310,
+            "pressure": 107,
+            "timeMS": 40660.673624999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 68340,
+            "pressure": 107,
+            "timeMS": 40678.53075
+        },
+        {
+            "type": "aftertouch",
+            "time": 68340,
+            "pressure": 87,
+            "timeMS": 40678.53075
+        },
+        {
+            "type": "aftertouch",
+            "time": 68375,
+            "pressure": 87,
+            "timeMS": 40699.3640625
+        },
+        {
+            "type": "aftertouch",
+            "time": 68375,
+            "pressure": 0,
+            "timeMS": 40699.3640625
+        },
+        {
+            "type": "noteOn",
+            "time": 70080,
+            "note": 70,
+            "velocity": 91,
+            "timeMS": 41714.244
+        },
+        {
+            "type": "noteOff",
+            "time": 70458,
+            "note": 70,
+            "velocity": 92,
+            "timeMS": 41939.243774999995
+        },
+        {
+            "type": "noteOff",
+            "time": 70558,
+            "note": 74,
+            "velocity": 72,
+            "timeMS": 41998.767524999996
+        },
+        {
+            "type": "noteOn",
+            "time": 70560,
+            "note": 72,
+            "velocity": 95,
+            "timeMS": 41999.958
+        },
+        {
+            "type": "aftertouch",
+            "time": 70595,
+            "pressure": 0,
+            "timeMS": 42020.7913125
+        },
+        {
+            "type": "aftertouch",
+            "time": 70595,
+            "pressure": 98,
+            "timeMS": 42020.7913125
+        },
+        {
+            "type": "aftertouch",
+            "time": 70630,
+            "pressure": 98,
+            "timeMS": 42041.624625
+        },
+        {
+            "type": "aftertouch",
+            "time": 70630,
+            "pressure": 74,
+            "timeMS": 42041.624625
+        },
+        {
+            "type": "aftertouch",
+            "time": 70665,
+            "pressure": 74,
+            "timeMS": 42062.457937499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 70665,
+            "pressure": 33,
+            "timeMS": 42062.457937499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 70695,
+            "pressure": 33,
+            "timeMS": 42080.3150625
+        },
+        {
+            "type": "aftertouch",
+            "time": 70695,
+            "pressure": 0,
+            "timeMS": 42080.3150625
+        },
+        {
+            "type": "noteOn",
+            "time": 72000,
+            "note": 84,
+            "velocity": 111,
+            "timeMS": 42857.1
+        },
+        {
+            "type": "aftertouch",
+            "time": 72010,
+            "pressure": 0,
+            "timeMS": 42863.052375
+        },
+        {
+            "type": "aftertouch",
+            "time": 72010,
+            "pressure": 19,
+            "timeMS": 42863.052375
+        },
+        {
+            "type": "aftertouch",
+            "time": 72045,
+            "pressure": 19,
+            "timeMS": 42883.8856875
+        },
+        {
+            "type": "aftertouch",
+            "time": 72045,
+            "pressure": 127,
+            "timeMS": 42883.8856875
+        },
+        {
+            "type": "noteOff",
+            "time": 72083,
+            "note": 72,
+            "velocity": 72,
+            "timeMS": 42906.5047125
+        },
+        {
+            "type": "aftertouch",
+            "time": 72350,
+            "pressure": 127,
+            "timeMS": 43065.433124999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 72350,
+            "pressure": 97,
+            "timeMS": 43065.433124999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 72380,
+            "pressure": 97,
+            "timeMS": 43083.29025
+        },
+        {
+            "type": "aftertouch",
+            "time": 72380,
+            "pressure": 64,
+            "timeMS": 43083.29025
+        },
+        {
+            "type": "aftertouch",
+            "time": 72415,
+            "pressure": 64,
+            "timeMS": 43104.1235625
+        },
+        {
+            "type": "aftertouch",
+            "time": 72415,
+            "pressure": 21,
+            "timeMS": 43104.1235625
+        },
+        {
+            "type": "aftertouch",
+            "time": 72450,
+            "pressure": 21,
+            "timeMS": 43124.956874999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 72450,
+            "pressure": 0,
+            "timeMS": 43124.956874999996
+        },
+        {
+            "type": "noteOn",
+            "time": 73320,
+            "note": 79,
+            "velocity": 93,
+            "timeMS": 43642.8135
+        },
+        {
+            "type": "aftertouch",
+            "time": 73360,
+            "pressure": 0,
+            "timeMS": 43666.623
+        },
+        {
+            "type": "aftertouch",
+            "time": 73360,
+            "pressure": 63,
+            "timeMS": 43666.623
+        },
+        {
+            "type": "aftertouch",
+            "time": 73395,
+            "pressure": 63,
+            "timeMS": 43687.4563125
+        },
+        {
+            "type": "aftertouch",
+            "time": 73395,
+            "pressure": 0,
+            "timeMS": 43687.4563125
+        },
+        {
+            "type": "noteOff",
+            "time": 73413,
+            "note": 84,
+            "velocity": 64,
+            "timeMS": 43698.1705875
+        },
+        {
+            "type": "aftertouch",
+            "time": 73425,
+            "pressure": 0,
+            "timeMS": 43705.3134375
+        },
+        {
+            "type": "aftertouch",
+            "time": 73425,
+            "pressure": 40,
+            "timeMS": 43705.3134375
+        },
+        {
+            "type": "aftertouch",
+            "time": 73460,
+            "pressure": 40,
+            "timeMS": 43726.14675
+        },
+        {
+            "type": "aftertouch",
+            "time": 73460,
+            "pressure": 29,
+            "timeMS": 43726.14675
+        },
+        {
+            "type": "aftertouch",
+            "time": 73495,
+            "pressure": 29,
+            "timeMS": 43746.9800625
+        },
+        {
+            "type": "aftertouch",
+            "time": 73495,
+            "pressure": 0,
+            "timeMS": 43746.9800625
+        },
+        {
+            "type": "noteOn",
+            "time": 73680,
+            "note": 77,
+            "velocity": 95,
+            "timeMS": 43857.098999999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 73695,
+            "pressure": 0,
+            "timeMS": 43866.0275625
+        },
+        {
+            "type": "aftertouch",
+            "time": 73695,
+            "pressure": 127,
+            "timeMS": 43866.0275625
+        },
+        {
+            "type": "noteOff",
+            "time": 73718,
+            "note": 79,
+            "velocity": 76,
+            "timeMS": 43879.718024999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 73730,
+            "pressure": 127,
+            "timeMS": 43886.860875
+        },
+        {
+            "type": "aftertouch",
+            "time": 73730,
+            "pressure": 0,
+            "timeMS": 43886.860875
+        },
+        {
+            "type": "aftertouch",
+            "time": 73765,
+            "pressure": 0,
+            "timeMS": 43907.6941875
+        },
+        {
+            "type": "aftertouch",
+            "time": 73765,
+            "pressure": 9,
+            "timeMS": 43907.6941875
+        },
+        {
+            "type": "aftertouch",
+            "time": 73795,
+            "pressure": 9,
+            "timeMS": 43925.5513125
+        },
+        {
+            "type": "aftertouch",
+            "time": 73795,
+            "pressure": 0,
+            "timeMS": 43925.5513125
+        },
+        {
+            "type": "aftertouch",
+            "time": 73895,
+            "pressure": 0,
+            "timeMS": 43985.0750625
+        },
+        {
+            "type": "aftertouch",
+            "time": 73895,
+            "pressure": 127,
+            "timeMS": 43985.0750625
+        },
+        {
+            "type": "noteOn",
+            "time": 73920,
+            "note": 79,
+            "velocity": 93,
+            "timeMS": 43999.956
+        },
+        {
+            "type": "noteOff",
+            "time": 73948,
+            "note": 77,
+            "velocity": 89,
+            "timeMS": 44016.62265
+        },
+        {
+            "type": "aftertouch",
+            "time": 74340,
+            "pressure": 127,
+            "timeMS": 44249.95575
+        },
+        {
+            "type": "aftertouch",
+            "time": 74340,
+            "pressure": 117,
+            "timeMS": 44249.95575
+        },
+        {
+            "type": "aftertouch",
+            "time": 74365,
+            "pressure": 117,
+            "timeMS": 44264.8366875
+        },
+        {
+            "type": "aftertouch",
+            "time": 74365,
+            "pressure": 83,
+            "timeMS": 44264.8366875
+        },
+        {
+            "type": "aftertouch",
+            "time": 74405,
+            "pressure": 83,
+            "timeMS": 44288.646187499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 74405,
+            "pressure": 74,
+            "timeMS": 44288.646187499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 74440,
+            "pressure": 74,
+            "timeMS": 44309.4795
+        },
+        {
+            "type": "aftertouch",
+            "time": 74440,
+            "pressure": 62,
+            "timeMS": 44309.4795
+        },
+        {
+            "type": "aftertouch",
+            "time": 74470,
+            "pressure": 62,
+            "timeMS": 44327.336624999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 74470,
+            "pressure": 37,
+            "timeMS": 44327.336624999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 74505,
+            "pressure": 37,
+            "timeMS": 44348.169937499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 74505,
+            "pressure": 0,
+            "timeMS": 44348.169937499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 74535,
+            "pressure": 0,
+            "timeMS": 44366.0270625
+        },
+        {
+            "type": "aftertouch",
+            "time": 74535,
+            "pressure": 8,
+            "timeMS": 44366.0270625
+        },
+        {
+            "type": "aftertouch",
+            "time": 74570,
+            "pressure": 8,
+            "timeMS": 44386.860375
+        },
+        {
+            "type": "aftertouch",
+            "time": 74570,
+            "pressure": 3,
+            "timeMS": 44386.860375
+        },
+        {
+            "type": "aftertouch",
+            "time": 74605,
+            "pressure": 3,
+            "timeMS": 44407.693687499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 74605,
+            "pressure": 1,
+            "timeMS": 44407.693687499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 74635,
+            "pressure": 1,
+            "timeMS": 44425.5508125
+        },
+        {
+            "type": "aftertouch",
+            "time": 74635,
+            "pressure": 0,
+            "timeMS": 44425.5508125
+        },
+        {
+            "type": "noteOff",
+            "time": 76558,
+            "note": 79,
+            "velocity": 79,
+            "timeMS": 45570.192525
+        },
+        {
+            "type": "noteOn",
+            "time": 76800,
+            "note": 82,
+            "velocity": 103,
+            "timeMS": 45714.24
+        },
+        {
+            "type": "noteOn",
+            "time": 77040,
+            "note": 84,
+            "velocity": 84,
+            "timeMS": 45857.097
+        },
+        {
+            "type": "noteOff",
+            "time": 77118,
+            "note": 82,
+            "velocity": 79,
+            "timeMS": 45903.525525
+        },
+        {
+            "type": "noteOn",
+            "time": 77280,
+            "note": 82,
+            "velocity": 86,
+            "timeMS": 45999.954
+        },
+        {
+            "type": "noteOff",
+            "time": 77308,
+            "note": 84,
+            "velocity": 83,
+            "timeMS": 46016.62065
+        },
+        {
+            "type": "noteOn",
+            "time": 79680,
+            "note": 80,
+            "velocity": 107,
+            "timeMS": 47428.524
+        },
+        {
+            "type": "noteOff",
+            "time": 79913,
+            "note": 82,
+            "velocity": 30,
+            "timeMS": 47567.2143375
+        },
+        {
+            "type": "noteOff",
+            "time": 80148,
+            "note": 80,
+            "velocity": 70,
+            "timeMS": 47707.09515
+        },
+        {
+            "type": "noteOn",
+            "time": 80160,
+            "note": 79,
+            "velocity": 99,
+            "timeMS": 47714.238
+        },
+        {
+            "type": "aftertouch",
+            "time": 80190,
+            "pressure": 0,
+            "timeMS": 47732.095125
+        },
+        {
+            "type": "aftertouch",
+            "time": 80190,
+            "pressure": 127,
+            "timeMS": 47732.095125
+        },
+        {
+            "type": "aftertouch",
+            "time": 80225,
+            "pressure": 127,
+            "timeMS": 47752.9284375
+        },
+        {
+            "type": "aftertouch",
+            "time": 80225,
+            "pressure": 124,
+            "timeMS": 47752.9284375
+        },
+        {
+            "type": "aftertouch",
+            "time": 80255,
+            "pressure": 124,
+            "timeMS": 47770.7855625
+        },
+        {
+            "type": "aftertouch",
+            "time": 80255,
+            "pressure": 127,
+            "timeMS": 47770.7855625
+        },
+        {
+            "type": "aftertouch",
+            "time": 80355,
+            "pressure": 127,
+            "timeMS": 47830.3093125
+        },
+        {
+            "type": "aftertouch",
+            "time": 80355,
+            "pressure": 102,
+            "timeMS": 47830.3093125
+        },
+        {
+            "type": "aftertouch",
+            "time": 80395,
+            "pressure": 102,
+            "timeMS": 47854.1188125
+        },
+        {
+            "type": "aftertouch",
+            "time": 80395,
+            "pressure": 47,
+            "timeMS": 47854.1188125
+        },
+        {
+            "type": "aftertouch",
+            "time": 80430,
+            "pressure": 47,
+            "timeMS": 47874.952124999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 80430,
+            "pressure": 0,
+            "timeMS": 47874.952124999996
+        },
+        {
+            "type": "noteOff",
+            "time": 80513,
+            "note": 79,
+            "velocity": 83,
+            "timeMS": 47924.356837499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 80630,
+            "pressure": 0,
+            "timeMS": 47993.999625
+        },
+        {
+            "type": "aftertouch",
+            "time": 80630,
+            "pressure": 127,
+            "timeMS": 47993.999625
+        },
+        {
+            "type": "noteOn",
+            "time": 80640,
+            "note": 79,
+            "velocity": 118,
+            "timeMS": 47999.952
+        },
+        {
+            "type": "aftertouch",
+            "time": 81030,
+            "pressure": 127,
+            "timeMS": 48232.094625
+        },
+        {
+            "type": "aftertouch",
+            "time": 81030,
+            "pressure": 83,
+            "timeMS": 48232.094625
+        },
+        {
+            "type": "aftertouch",
+            "time": 81065,
+            "pressure": 83,
+            "timeMS": 48252.9279375
+        },
+        {
+            "type": "aftertouch",
+            "time": 81065,
+            "pressure": 78,
+            "timeMS": 48252.9279375
+        },
+        {
+            "type": "aftertouch",
+            "time": 81105,
+            "pressure": 78,
+            "timeMS": 48276.7374375
+        },
+        {
+            "type": "aftertouch",
+            "time": 81105,
+            "pressure": 66,
+            "timeMS": 48276.7374375
+        },
+        {
+            "type": "aftertouch",
+            "time": 81135,
+            "pressure": 66,
+            "timeMS": 48294.594562499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 81135,
+            "pressure": 45,
+            "timeMS": 48294.594562499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 81170,
+            "pressure": 45,
+            "timeMS": 48315.427875
+        },
+        {
+            "type": "aftertouch",
+            "time": 81170,
+            "pressure": 27,
+            "timeMS": 48315.427875
+        },
+        {
+            "type": "aftertouch",
+            "time": 81200,
+            "pressure": 27,
+            "timeMS": 48333.284999999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 81200,
+            "pressure": 2,
+            "timeMS": 48333.284999999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 81235,
+            "pressure": 2,
+            "timeMS": 48354.118312499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 81235,
+            "pressure": 0,
+            "timeMS": 48354.118312499995
+        },
+        {
+            "type": "noteOn",
+            "time": 81360,
+            "note": 77,
+            "velocity": 121,
+            "timeMS": 48428.523
+        },
+        {
+            "type": "aftertouch",
+            "time": 81400,
+            "pressure": 0,
+            "timeMS": 48452.3325
+        },
+        {
+            "type": "aftertouch",
+            "time": 81400,
+            "pressure": 127,
+            "timeMS": 48452.3325
+        },
+        {
+            "type": "noteOff",
+            "time": 81468,
+            "note": 79,
+            "velocity": 90,
+            "timeMS": 48492.80865
+        },
+        {
+            "type": "aftertouch",
+            "time": 82040,
+            "pressure": 127,
+            "timeMS": 48833.2845
+        },
+        {
+            "type": "aftertouch",
+            "time": 82040,
+            "pressure": 107,
+            "timeMS": 48833.2845
+        },
+        {
+            "type": "aftertouch",
+            "time": 82075,
+            "pressure": 107,
+            "timeMS": 48854.1178125
+        },
+        {
+            "type": "aftertouch",
+            "time": 82075,
+            "pressure": 81,
+            "timeMS": 48854.1178125
+        },
+        {
+            "type": "aftertouch",
+            "time": 82110,
+            "pressure": 81,
+            "timeMS": 48874.951125
+        },
+        {
+            "type": "aftertouch",
+            "time": 82110,
+            "pressure": 30,
+            "timeMS": 48874.951125
+        },
+        {
+            "type": "aftertouch",
+            "time": 82140,
+            "pressure": 30,
+            "timeMS": 48892.808249999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 82140,
+            "pressure": 18,
+            "timeMS": 48892.808249999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 82175,
+            "pressure": 18,
+            "timeMS": 48913.6415625
+        },
+        {
+            "type": "aftertouch",
+            "time": 82175,
+            "pressure": 2,
+            "timeMS": 48913.6415625
+        },
+        {
+            "type": "aftertouch",
+            "time": 82215,
+            "pressure": 2,
+            "timeMS": 48937.4510625
+        },
+        {
+            "type": "aftertouch",
+            "time": 82215,
+            "pressure": 0,
+            "timeMS": 48937.4510625
+        },
+        {
+            "type": "noteOn",
+            "time": 83520,
+            "note": 79,
+            "velocity": 116,
+            "timeMS": 49714.236
+        },
+        {
+            "type": "aftertouch",
+            "time": 83555,
+            "pressure": 0,
+            "timeMS": 49735.069312499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 83555,
+            "pressure": 127,
+            "timeMS": 49735.069312499996
+        },
+        {
+            "type": "noteOff",
+            "time": 83568,
+            "note": 77,
+            "velocity": 97,
+            "timeMS": 49742.8074
+        },
+        {
+            "type": "aftertouch",
+            "time": 89450,
+            "pressure": 127,
+            "timeMS": 53243.994374999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89450,
+            "pressure": 126,
+            "timeMS": 53243.994374999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89480,
+            "pressure": 126,
+            "timeMS": 53261.8515
+        },
+        {
+            "type": "aftertouch",
+            "time": 89480,
+            "pressure": 117,
+            "timeMS": 53261.8515
+        },
+        {
+            "type": "aftertouch",
+            "time": 89515,
+            "pressure": 117,
+            "timeMS": 53282.684812499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 89515,
+            "pressure": 113,
+            "timeMS": 53282.684812499996
+        },
+        {
+            "type": "aftertouch",
+            "time": 89550,
+            "pressure": 113,
+            "timeMS": 53303.518124999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89550,
+            "pressure": 98,
+            "timeMS": 53303.518124999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89585,
+            "pressure": 98,
+            "timeMS": 53324.3514375
+        },
+        {
+            "type": "aftertouch",
+            "time": 89585,
+            "pressure": 94,
+            "timeMS": 53324.3514375
+        },
+        {
+            "type": "aftertouch",
+            "time": 89620,
+            "pressure": 94,
+            "timeMS": 53345.18475
+        },
+        {
+            "type": "aftertouch",
+            "time": 89620,
+            "pressure": 92,
+            "timeMS": 53345.18475
+        },
+        {
+            "type": "aftertouch",
+            "time": 89650,
+            "pressure": 92,
+            "timeMS": 53363.041874999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89650,
+            "pressure": 90,
+            "timeMS": 53363.041874999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89685,
+            "pressure": 90,
+            "timeMS": 53383.875187499994
+        },
+        {
+            "type": "aftertouch",
+            "time": 89685,
+            "pressure": 88,
+            "timeMS": 53383.875187499994
+        },
+        {
+            "type": "aftertouch",
+            "time": 89720,
+            "pressure": 88,
+            "timeMS": 53404.7085
+        },
+        {
+            "type": "aftertouch",
+            "time": 89720,
+            "pressure": 85,
+            "timeMS": 53404.7085
+        },
+        {
+            "type": "aftertouch",
+            "time": 89750,
+            "pressure": 85,
+            "timeMS": 53422.565624999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 89750,
+            "pressure": 83,
+            "timeMS": 53422.565624999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 89785,
+            "pressure": 83,
+            "timeMS": 53443.398937499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89785,
+            "pressure": 82,
+            "timeMS": 53443.398937499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89820,
+            "pressure": 82,
+            "timeMS": 53464.23225
+        },
+        {
+            "type": "aftertouch",
+            "time": 89820,
+            "pressure": 80,
+            "timeMS": 53464.23225
+        },
+        {
+            "type": "aftertouch",
+            "time": 89850,
+            "pressure": 80,
+            "timeMS": 53482.089374999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 89850,
+            "pressure": 75,
+            "timeMS": 53482.089374999996
+        },
+        {
+            "type": "aftertouch",
+            "time": 89885,
+            "pressure": 75,
+            "timeMS": 53502.922687499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89885,
+            "pressure": 72,
+            "timeMS": 53502.922687499995
+        },
+        {
+            "type": "aftertouch",
+            "time": 89925,
+            "pressure": 72,
+            "timeMS": 53526.7321875
+        },
+        {
+            "type": "aftertouch",
+            "time": 89925,
+            "pressure": 70,
+            "timeMS": 53526.7321875
+        },
+        {
+            "type": "aftertouch",
+            "time": 89990,
+            "pressure": 70,
+            "timeMS": 53565.422625
+        },
+        {
+            "type": "aftertouch",
+            "time": 89990,
+            "pressure": 69,
+            "timeMS": 53565.422625
+        },
+        {
+            "type": "aftertouch",
+            "time": 90020,
+            "pressure": 69,
+            "timeMS": 53583.279749999994
+        },
+        {
+            "type": "aftertouch",
+            "time": 90020,
+            "pressure": 63,
+            "timeMS": 53583.279749999994
+        },
+        {
+            "type": "aftertouch",
+            "time": 90055,
+            "pressure": 63,
+            "timeMS": 53604.1130625
+        },
+        {
+            "type": "aftertouch",
+            "time": 90055,
+            "pressure": 57,
+            "timeMS": 53604.1130625
+        },
+        {
+            "type": "aftertouch",
+            "time": 90090,
+            "pressure": 57,
+            "timeMS": 53624.946375
+        },
+        {
+            "type": "aftertouch",
+            "time": 90090,
+            "pressure": 54,
+            "timeMS": 53624.946375
+        },
+        {
+            "type": "aftertouch",
+            "time": 90120,
+            "pressure": 54,
+            "timeMS": 53642.803499999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 90120,
+            "pressure": 47,
+            "timeMS": 53642.803499999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 90155,
+            "pressure": 47,
+            "timeMS": 53663.6368125
+        },
+        {
+            "type": "aftertouch",
+            "time": 90155,
+            "pressure": 39,
+            "timeMS": 53663.6368125
+        },
+        {
+            "type": "aftertouch",
+            "time": 90190,
+            "pressure": 39,
+            "timeMS": 53684.470125
+        },
+        {
+            "type": "aftertouch",
+            "time": 90190,
+            "pressure": 19,
+            "timeMS": 53684.470125
+        },
+        {
+            "type": "aftertouch",
+            "time": 90220,
+            "pressure": 19,
+            "timeMS": 53702.327249999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 90220,
+            "pressure": 17,
+            "timeMS": 53702.327249999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 90255,
+            "pressure": 17,
+            "timeMS": 53723.1605625
+        },
+        {
+            "type": "aftertouch",
+            "time": 90255,
+            "pressure": 15,
+            "timeMS": 53723.1605625
+        },
+        {
+            "type": "aftertouch",
+            "time": 90290,
+            "pressure": 15,
+            "timeMS": 53743.993875
+        },
+        {
+            "type": "aftertouch",
+            "time": 90290,
+            "pressure": 3,
+            "timeMS": 53743.993875
+        },
+        {
+            "type": "aftertouch",
+            "time": 90320,
+            "pressure": 3,
+            "timeMS": 53761.850999999995
+        },
+        {
+            "type": "aftertouch",
+            "time": 90320,
+            "pressure": 0,
+            "timeMS": 53761.850999999995
+        },
+        {
+            "type": "noteOff",
+            "time": 96988,
+            "note": 79,
+            "velocity": 94,
+            "timeMS": 57730.894649999995
+        },
+        {
+            "type": "trackEnd",
+            "time": 96988,
+            "timeMS": 57730.894649999995
+        }
+    ]
+}
