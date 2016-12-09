@@ -39,8 +39,8 @@ var RhythmController = me.Renderable.extend({
             var track = noteJSON[trackName];
             track.forEach(function(event) {
                 if (event["type"] === "noteOn") {
-                    var note = { timeMS: event["timeMS"], note: event["note"]};
-                    this.noteData.push(note);
+                    var noteData = { timeMS: event["timeMS"], note: event["note"] };
+                    this.noteData.push(noteData);
                 }
             }.bind(this));
         }
@@ -52,7 +52,12 @@ var RhythmController = me.Renderable.extend({
     },
 
     noteNumToKey: function(noteMIDI) {
-        return noteMIDI % 3;
+        var noteVal = noteMIDI % 3;
+        if (noteVal == this.lastNote) {
+            noteVal = (noteVal + 2) % 3;
+        }
+        this.lastNote = noteVal;
+        return noteVal;
     },
 
     isNoteInWindow: function(note) {
